@@ -15,6 +15,8 @@ sites:
     url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
   - name: Test3
     url: https://mustbedowsssssndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
+  - name: Test4
+    url: https://mustbedowsssssssndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
