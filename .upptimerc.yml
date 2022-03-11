@@ -9,6 +9,8 @@ sites:
     url: https://cal.krisnetics.biz/
   - name: Krisletter
     url: https://newsletter.krisnetics.biz/
+  - name: Test
+    url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
