@@ -9,14 +9,12 @@ sites:
     url: https://cal.krisnetics.biz/
   - name: Krisletter
     url: https://newsletter.krisnetics.biz/
-  - name: Test
-    url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
-  - name: Test2
-    url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
-  - name: Test3
-    url: https://mustbedowsssssndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
-  - name: Test4
-    url: https://mustbedowsssssssndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
+  - name: Krisnetics.com
+    url: https://krisnetics.com/
+  - name: Matomo
+    url: https://krisnetics.biz/matomo/
+  - name: Plesk
+    url: https://krisnetics.biz:8443/login_up.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
