@@ -3,19 +3,19 @@ owner: kriskodira # Your GitHub organization or username, where this repository 
 repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: TextTextBaby
+  - name: 🍚🛍 TextTextBaby
     url: https:/texttextbaby.de
-  - name: TextTextBaby Server
+  - name: 🍚💻 TextTextBaby Server
     url: https://h2965273.stratoserver.net/login_up.php
-  - name: Krisnetics Cal.com
+  - name: 📆 Krisnetics Cal.com
     url: https://cal.krisnetics.biz/
-  - name: Krisletter
+  - name: 📩 Krisletter
     url: https://newsletter.krisnetics.biz/
-  - name: Krisnetics.com
+  - name: 🌍 Krisnetics.com
     url: https://krisnetics.com/
-  - name: Matomo
+  - name: 📈 Matomo
     url: https://krisnetics.biz/matomo/
-  - name: Plesk
+  - name: 💼 Plesk
     url: https://krisnetics.biz:8443/login_up.php
 
 status-website:
