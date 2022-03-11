@@ -5,6 +5,8 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: TextTextBaby
     url: https:/texttextbaby.de
+  - name: TextTextBaby Server
+    url: https://h2965273.stratoserver.net/login_up.php
   - name: Krisnetics Cal.com
     url: https://cal.krisnetics.biz/
   - name: Krisletter
