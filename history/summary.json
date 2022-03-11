@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3022,
-    "timeDay": 3022,
-    "timeWeek": 3022,
-    "timeMonth": 3022,
-    "timeYear": 3022,
+    "time": 2498,
+    "timeDay": 2498,
+    "timeWeek": 2498,
+    "timeMonth": 2498,
+    "timeYear": 2498,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2267,
-    "timeDay": 2267,
-    "timeWeek": 2267,
-    "timeMonth": 2267,
-    "timeYear": 2267,
+    "time": 1764,
+    "timeDay": 1764,
+    "timeWeek": 1764,
+    "timeMonth": 1764,
+    "timeYear": 1764,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 480,
+    "timeDay": 480,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test",
+    "url": "https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/",
+    "icon": "https://favicons.githubusercontent.com/mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz",
+    "slug": "test",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   }
 ]
