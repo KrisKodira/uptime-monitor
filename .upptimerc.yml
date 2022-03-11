@@ -15,9 +15,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime-monitor
   logoUrl: https://krisnetics.biz/krisnetics-logo.png
+  favicon: https://krisnetics.biz/krisnetics-logo.png
   name: Krisnetics Uptime
   introTitle: "**Krisnetics** Uptime Monitoring."
   introMessage: Das ist ein Uptime Monitor von Krisnetics. 
+  theme: dark
   navbar:
     - title: Status
       href: /
