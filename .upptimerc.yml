@@ -11,7 +11,7 @@ sites:
     url: https://newsletter.krisnetics.biz/
   - name: Test
     url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
- - name: Test2
+  - name: Test2
     url: https://mustbedowndkskdjfjdf.sfaasdfsdfsdfdsffdssdfsdf.biz/
 
 status-website:
