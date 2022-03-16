@@ -7,6 +7,12 @@ sites:
     url: https:/texttextbaby.de
   - name: 🍚🛍 TextTextBaby COM
     url: https:/texttextbaby.com
+  - name: 🍚🛍 Preispakete Live Testpage
+    url: https://texttextbaby.de/testpage-34567w89b8s765a43
+    __dangerous__body_down: "Preispaket"
+  - name: 🍚🛍 Preispakete Live Prod
+    url: https://texttextbaby.de/
+    __dangerous__body_down: "Elite"
   - name: 🍚💻 TextTextBaby Server
     url: https://h2965273.stratoserver.net/login_up.php
   - name: 📆 Krisnetics Cal.com
