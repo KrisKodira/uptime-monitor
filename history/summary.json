@@ -40,19 +40,19 @@
     "url": "https://texttextbaby.de/testpage-34567w89b8s765a43",
     "icon": "https://favicons.githubusercontent.com/texttextbaby.de",
     "slug": "preispakete-live-testpage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 526,
-    "timeDay": 407,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "97.48%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
+    "time": 1241,
+    "timeDay": 1400,
+    "timeWeek": 1241,
+    "timeMonth": 1241,
+    "timeYear": 1241,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 47
     }
   },
   {
