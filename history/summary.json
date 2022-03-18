@@ -22,9 +22,9 @@
     "url": "https:/texttextbaby.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "text-text-baby-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 754,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "🍚🛍 Preispakete Live Prod",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/texttextbaby.de",
     "slug": "preispakete-live-prod",
     "status": "down",
-    "uptime": "80.31%",
-    "uptimeDay": "67.92%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "80.31%",
-    "uptimeYear": "80.31%",
+    "uptime": "73.42%",
+    "uptimeDay": "52.61%",
+    "uptimeWeek": "73.42%",
+    "uptimeMonth": "73.42%",
+    "uptimeYear": "73.42%",
     "time": 287,
     "timeDay": 289,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-03-18": 73,
+      "2022-03-18": 294,
       "2022-03-17": 389
     }
   },
