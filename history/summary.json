@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "text-text-baby-com",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1812,
     "timeDay": 3188,
     "timeWeek": 1812,
     "timeMonth": 1812,
     "timeYear": 1812,
-    "dailyMinutesDown": {
-      "2022-03-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🍚🛍 Preispakete Live Prod",
@@ -43,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/texttextbaby.de",
     "slug": "preispakete-live-prod",
     "status": "down",
-    "uptime": "73.29%",
-    "uptimeDay": "52.29%",
-    "uptimeWeek": "73.29%",
-    "uptimeMonth": "73.29%",
-    "uptimeYear": "73.29%",
+    "uptime": "64.90%",
+    "uptimeDay": "29.23%",
+    "uptimeWeek": "64.90%",
+    "uptimeMonth": "64.90%",
+    "uptimeYear": "64.90%",
     "time": 287,
     "timeDay": 289,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-03-18": 298,
+      "2022-03-18": 630,
       "2022-03-17": 389
     }
   },
@@ -71,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 700,
     "timeDay": 734,
-    "timeWeek": 700,
+    "timeWeek": 717,
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {}
@@ -89,7 +87,7 @@
     "uptimeYear": "100.00%",
     "time": 881,
     "timeDay": 655,
-    "timeWeek": 881,
+    "timeWeek": 689,
     "timeMonth": 881,
     "timeYear": 881,
     "dailyMinutesDown": {}
@@ -107,7 +105,7 @@
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 373,
-    "timeWeek": 432,
+    "timeWeek": 412,
     "timeMonth": 432,
     "timeYear": 432,
     "dailyMinutesDown": {}
@@ -117,18 +115,20 @@
     "url": "https://krisnetics.com/",
     "icon": "https://favicons.githubusercontent.com/krisnetics.com",
     "slug": "krisnetics-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2465,
     "timeDay": 2045,
-    "timeWeek": 2465,
+    "timeWeek": 2339,
     "timeMonth": 2465,
     "timeYear": 2465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "📈 Matomo",
@@ -143,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 917,
     "timeDay": 894,
-    "timeWeek": 917,
+    "timeWeek": 893,
     "timeMonth": 917,
     "timeYear": 917,
     "dailyMinutesDown": {}
@@ -161,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 460,
-    "timeWeek": 492,
+    "timeWeek": 471,
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {}
