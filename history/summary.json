@@ -22,9 +22,9 @@
     "url": "https:/texttextbaby.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "text-text-baby-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1887,
     "timeMonth": 1619,
     "timeYear": 1619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   },
   {
     "name": "🍚🛍 Preispakete Live Prod",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/texttextbaby.de",
     "slug": "preispakete-live-prod",
     "status": "up",
-    "uptime": "54.35%",
+    "uptime": "56.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "53.87%",
-    "uptimeMonth": "54.35%",
-    "uptimeYear": "54.35%",
+    "uptimeMonth": "56.25%",
+    "uptimeYear": "56.25%",
     "time": 1316,
     "timeDay": 486,
     "timeWeek": 1430,
@@ -154,18 +156,18 @@
     "icon": "https://favicons.githubusercontent.com/krisnetics.biz",
     "slug": "plesk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.53%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.53%",
     "time": 504,
     "timeDay": 793,
     "timeWeek": 504,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 441
     }
   }
 ]
