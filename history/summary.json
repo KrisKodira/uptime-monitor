@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1097,
     "timeDay": 2719,
-    "timeWeek": 1169,
+    "timeWeek": 1080,
     "timeMonth": 1097,
     "timeYear": 1097,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1619,
     "timeDay": 2958,
-    "timeWeek": 1797,
+    "timeWeek": 1887,
     "timeMonth": 1619,
     "timeYear": 1619,
     "dailyMinutesDown": {}
@@ -41,14 +41,14 @@
     "icon": "https://favicons.githubusercontent.com/texttextbaby.de",
     "slug": "preispakete-live-prod",
     "status": "up",
-    "uptime": "51.34%",
+    "uptime": "54.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.34%",
-    "uptimeMonth": "51.34%",
-    "uptimeYear": "51.34%",
+    "uptimeWeek": "53.87%",
+    "uptimeMonth": "54.35%",
+    "uptimeYear": "54.35%",
     "time": 1316,
     "timeDay": 486,
-    "timeWeek": 1316,
+    "timeWeek": 1430,
     "timeMonth": 1316,
     "timeYear": 1316,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 1139,
-    "timeWeek": 776,
+    "timeWeek": 774,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {}
@@ -89,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 862,
     "timeDay": 1319,
-    "timeWeek": 725,
+    "timeWeek": 726,
     "timeMonth": 862,
     "timeYear": 862,
     "dailyMinutesDown": {}
@@ -107,7 +107,7 @@
     "uptimeYear": "100.00%",
     "time": 424,
     "timeDay": 562,
-    "timeWeek": 393,
+    "timeWeek": 389,
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {}
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 2345,
     "timeDay": 3501,
-    "timeWeek": 2035,
+    "timeWeek": 1980,
     "timeMonth": 2345,
     "timeYear": 2345,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 1683,
-    "timeWeek": 958,
+    "timeWeek": 954,
     "timeMonth": 944,
     "timeYear": 944,
     "dailyMinutesDown": {}
@@ -153,17 +153,19 @@
     "url": "https://krisnetics.biz:8443/login_up.php",
     "icon": "https://favicons.githubusercontent.com/krisnetics.biz",
     "slug": "plesk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 793,
-    "timeWeek": 502,
+    "timeWeek": 504,
     "timeMonth": 504,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   }
 ]
