@@ -4,26 +4,76 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: 🍚🛍 TextTextBaby DE
-    url: https:/texttextbaby.de
+    url: https://texttextbaby.de
   - name: 🍚🛍 TextTextBaby COM
-    url: https:/texttextbaby.com
+    url: https://texttextbaby.com
+  - name: 🍚🛍 TextTextBaby WWW DE
+    url: https://www.texttextbaby.de
+  - name: 🍚🛍 TextTextBaby WWW COM
+    url: https://www.texttextbaby.com
   - name: 🍚🛍 Preispakete Live Prod
     url: https://texttextbaby.de/
   - name: 💬 Sebastian Zitzmann
-    url: https://www.sebastian-zitzmann.de/
+    url: https://sebastian-zitzmann.de
     __dangerous__body_down: "ELITE"
   - name: 🍚💻 TextTextBaby Server
     url: https://h2965273.stratoserver.net/login_up.php
   - name: 📆 Krisnetics Cal.com
     url: https://cal.krisnetics.biz/
   - name: 📩 Krisletter
-    url: https://newsletter.krisnetics.biz/
+    url: https://mautic.krisnetics.biz/
   - name: 🌍 Krisnetics.com
     url: https://krisnetics.com/
   - name: 📈 Matomo
     url: https://krisnetics.biz/matomo/
   - name: 💼 Plesk
     url: https://krisnetics.biz:8443/login_up.php
+  - name: Annette
+    url: https://annette-lartey.de/
+  - name: CFB
+    url: https://crossfitbaden.ch/
+  - name: Lea Heinrich
+    url: https://dieleaheinrich.de/
+  - name: Nico L
+    url: https://lindlconsulting.com/
+  - name: Nico L
+    url: https://lindlconsulting.com/
+  - name: Peter
+    url: https://www.peterhackmair.com/
+  - name: Sebastian VmW
+    url: https://verkaufenmitwerten.de
+  - name: SHIFT
+    url: https://shifthappens.de
+  - name: Tim J
+    url: https://werbungmitwumms.com/
+  - name: Alan
+    url: https://alan-herweg.de/
+  - name: Dominik P.
+    url: https://dominikpetermeier.de/
+  - name: IG Helden
+    url: https://ingenieurshelden.de/
+  - name: Mario L.
+    url: https://www.mariolenke.de/
+  - name: Phönixinseln
+    url: https://phoenixinseln.eu/
+  - name: KARST
+    url: https://www.karst-rechtsanwaelte.de/
+  - name: Timon
+    url: https://timonleu.de/
+  - name: Kücklich
+    url: https://kuecklich.com/
+  - name: BKP
+    url: https://bjoernkurtenbach.de/
+  - name: KHL
+    url: https://khl-neometis.de/
+  - name: Kunert
+    url: https://kunert.cc/
+  - name: Müller Sales
+    url: https://mueller-sales.de/
+  - name: TayRec
+    url: https://tayrec.de/
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
