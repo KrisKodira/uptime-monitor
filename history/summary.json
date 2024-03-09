@@ -166,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "43.84%",
+    "uptime": "43.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.65%",
@@ -946,9 +946,9 @@
     "slug": "sebastian-vm-w",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.34%",
     "time": 2361,
     "timeDay": 1993,
@@ -956,7 +956,7 @@
     "timeMonth": 2416,
     "timeYear": 2361,
     "dailyMinutesDown": {
-      "2024-03-08": 23,
+      "2024-03-08": 20,
       "2024-03-05": 34,
       "2024-03-04": 81,
       "2024-02-28": 20,
@@ -1178,8 +1178,8 @@
     "slug": "khl",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1343,
@@ -1187,9 +1187,7 @@
     "timeWeek": 1443,
     "timeMonth": 1365,
     "timeYear": 1343,
-    "dailyMinutesDown": {
-      "2024-03-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kunert",
