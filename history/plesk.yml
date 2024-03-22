@@ -1,7 +1,7 @@
 url: https://krisnetics.biz:8443/login_up.php
-status: down
-code: 502
-responseTime: 588
-lastUpdated: 2024-03-22T06:48:47.923Z
+status: up
+code: 200
+responseTime: 6460
+lastUpdated: 2024-03-22T06:55:01.079Z
 startTime: 2022-03-11T09:15:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
