@@ -1026,19 +1026,19 @@
     "url": "https://dominikpetermeier.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dominikpetermeier.de.ico",
     "slug": "dominik-p",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1352,
-    "timeDay": 1610,
-    "timeWeek": 1474,
-    "timeMonth": 1449,
-    "timeYear": 1352,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1366,
+    "timeDay": 1855,
+    "timeWeek": 1537,
+    "timeMonth": 1468,
+    "timeYear": 1366,
     "dailyMinutesDown": {
-      "2024-03-25": 1
+      "2024-03-25": 18
     }
   },
   {
