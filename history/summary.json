@@ -166,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "45.52%",
+    "uptime": "45.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "97.63%",
@@ -897,18 +897,20 @@
     "url": "https://www.unternehmerplus.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unternehmerplus.de.ico",
     "slug": "unternehmerplus",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2400,
     "timeDay": 2597,
     "timeWeek": 2400,
     "timeMonth": 2400,
     "timeYear": 2400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-25": 1
+    }
   },
   {
     "name": "Peter",
@@ -941,7 +943,7 @@
     "uptimeYear": "99.39%",
     "time": 2313,
     "timeDay": 1823,
-    "timeWeek": 1942,
+    "timeWeek": 1957,
     "timeMonth": 2508,
     "timeYear": 2313,
     "dailyMinutesDown": {
