@@ -166,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "45.47%",
+    "uptime": "45.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "97.63%",
@@ -534,7 +534,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mautic.krisnetics.biz.ico",
     "slug": "krisletter",
     "status": "up",
-    "uptime": "73.80%",
+    "uptime": "73.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.27%",
     "uptimeMonth": "97.53%",
@@ -1026,10 +1026,10 @@
     "url": "https://dominikpetermeier.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dominikpetermeier.de.ico",
     "slug": "dominik-p",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1352,
@@ -1037,7 +1037,9 @@
     "timeWeek": 1474,
     "timeMonth": 1449,
     "timeYear": 1352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-25": 1
+    }
   },
   {
     "name": "IG Helden",
@@ -1198,8 +1200,8 @@
     "uptimeYear": "99.90%",
     "time": 1905,
     "timeDay": 2267,
-    "timeWeek": 2041,
-    "timeMonth": 1937,
+    "timeWeek": 1902,
+    "timeMonth": 1940,
     "timeYear": 1905,
     "dailyMinutesDown": {
       "2024-03-17": 15,
