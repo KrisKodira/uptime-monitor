@@ -935,18 +935,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/verkaufenmitwerten.de.ico",
     "slug": "sebastian-vm-w",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.39%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.39%",
     "time": 2291,
     "timeDay": 2147,
     "timeWeek": 1980,
     "timeMonth": 2468,
     "timeYear": 2291,
     "dailyMinutesDown": {
-      "2024-03-26": 1,
+      "2024-03-26": 8,
       "2024-03-22": 16,
       "2024-03-21": 29,
       "2024-03-17": 30,
@@ -1176,9 +1176,9 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1187,7 +1187,9 @@
     "timeWeek": 1293,
     "timeMonth": 1460,
     "timeYear": 1373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 1
+    }
   },
   {
     "name": "Kunert",
