@@ -898,19 +898,19 @@
     "url": "https://www.unternehmerplus.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unternehmerplus.de.ico",
     "slug": "unternehmerplus",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 7016,
     "timeDay": 11960,
     "timeWeek": 7016,
     "timeMonth": 7016,
     "timeYear": 7016,
     "dailyMinutesDown": {
-      "2024-03-28": 106
+      "2024-03-28": 107
     }
   },
   {
