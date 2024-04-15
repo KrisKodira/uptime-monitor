@@ -846,18 +846,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/annette-lartey.de.ico",
     "slug": "annette",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
     "time": 4185,
     "timeDay": 7492,
     "timeWeek": 7401,
     "timeMonth": 5668,
     "timeYear": 4185,
     "dailyMinutesDown": {
-      "2024-04-15": 37,
+      "2024-04-15": 25,
       "2024-04-07": 58,
       "2024-03-31": 19,
       "2024-03-01": 16
@@ -1060,10 +1060,10 @@
     "url": "https://ingenieurshelden.de/",
     "icon": "https://icons.duckduckgo.com/ip3/ingenieurshelden.de.ico",
     "slug": "ig-helden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1573,
@@ -1071,7 +1071,9 @@
     "timeWeek": 2345,
     "timeMonth": 1711,
     "timeYear": 1573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 1
+    }
   },
   {
     "name": "Mario L.",
