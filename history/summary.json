@@ -1060,19 +1060,19 @@
     "url": "https://ingenieurshelden.de/",
     "icon": "https://icons.duckduckgo.com/ip3/ingenieurshelden.de.ico",
     "slug": "ig-helden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1566,
-    "timeDay": 4848,
-    "timeWeek": 2374,
-    "timeMonth": 1699,
-    "timeYear": 1566,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1573,
+    "timeDay": 3935,
+    "timeWeek": 2345,
+    "timeMonth": 1711,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 6
     }
   },
   {
