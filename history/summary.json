@@ -1052,10 +1052,10 @@
     "url": "https://dominikpetermeier.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dominikpetermeier.de.ico",
     "slug": "dominik-p",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1386,
@@ -1064,6 +1064,7 @@
     "timeMonth": 1450,
     "timeYear": 1386,
     "dailyMinutesDown": {
+      "2024-04-17": 1,
       "2024-03-25": 18
     }
   },
@@ -1168,19 +1169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuecklich.com.ico",
     "slug": "kuecklich",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1410,
     "timeDay": 1876,
     "timeWeek": 1479,
     "timeMonth": 1402,
     "timeYear": 1410,
-    "dailyMinutesDown": {
-      "2024-04-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKP",
@@ -1229,12 +1228,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
     "time": 1920,
     "timeDay": 1742,
     "timeWeek": 1871,
-    "timeMonth": 1970,
+    "timeMonth": 1967,
     "timeYear": 1920,
     "dailyMinutesDown": {
       "2024-04-09": 18,
