@@ -166,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "47.87%",
+    "uptime": "47.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.13%",
@@ -954,9 +954,9 @@
     "slug": "sebastian-vm-w",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "97.48%",
     "time": 2254,
     "timeDay": 2957,
@@ -964,7 +964,6 @@
     "timeMonth": 2074,
     "timeYear": 2254,
     "dailyMinutesDown": {
-      "2024-04-18": 6,
       "2024-04-15": 30,
       "2024-04-10": 17,
       "2024-04-02": 655,
@@ -1129,10 +1128,10 @@
     "url": "https://www.karst-rechtsanwaelte.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.karst-rechtsanwaelte.de.ico",
     "slug": "karst",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
@@ -1140,7 +1139,9 @@
     "timeWeek": 824,
     "timeMonth": 919,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 1
+    }
   },
   {
     "name": "Timon",
@@ -1148,18 +1149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/timonleu.de.ico",
     "slug": "timon",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.61%",
+    "uptimeDay": "75.57%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.61%",
     "time": 1478,
     "timeDay": 0,
     "timeWeek": 1433,
     "timeMonth": 1480,
     "timeYear": 1478,
     "dailyMinutesDown": {
-      "2024-04-18": 179,
+      "2024-04-18": 194,
       "2024-04-17": 157,
       "2024-04-13": 53
     }
@@ -1234,7 +1235,7 @@
     "time": 1918,
     "timeDay": 1790,
     "timeWeek": 1780,
-    "timeMonth": 1968,
+    "timeMonth": 1940,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2024-04-09": 18,
