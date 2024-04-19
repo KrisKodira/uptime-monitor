@@ -1148,7 +1148,7 @@
     "slug": "timon",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "58.23%",
+    "uptimeDay": "63.80%",
     "uptimeWeek": "92.11%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.25%",
@@ -1206,8 +1206,8 @@
     "slug": "khl",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1349,
@@ -1216,7 +1216,6 @@
     "timeMonth": 1301,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2024-04-18": 4,
       "2024-03-29": 20
     }
   },
@@ -1234,7 +1233,7 @@
     "time": 1961,
     "timeDay": 3499,
     "timeWeek": 2380,
-    "timeMonth": 2050,
+    "timeMonth": 2062,
     "timeYear": 1961,
     "dailyMinutesDown": {
       "2024-04-18": 15,
