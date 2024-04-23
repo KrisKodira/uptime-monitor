@@ -181,7 +181,7 @@
     "uptime": "48.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "23.01%",
     "time": 2670,
     "timeDay": 1304,
@@ -1048,19 +1048,19 @@
     "url": "https://alan-herweg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/alan-herweg.de.ico",
     "slug": "alan",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1600,
-    "timeDay": 1384,
-    "timeWeek": 1481,
-    "timeMonth": 1678,
-    "timeYear": 1600,
+    "time": 1599,
+    "timeDay": 1446,
+    "timeWeek": 1485,
+    "timeMonth": 1673,
+    "timeYear": 1599,
     "dailyMinutesDown": {
-      "2024-04-23": 1
+      "2024-04-23": 5
     }
   },
   {
