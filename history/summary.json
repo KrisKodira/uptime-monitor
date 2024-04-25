@@ -1205,19 +1205,19 @@
     "url": "https://bjoernkurtenbach.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bjoernkurtenbach.de.ico",
     "slug": "bkp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2653,
-    "timeDay": 2437,
-    "timeWeek": 2496,
-    "timeMonth": 2616,
-    "timeYear": 2653,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2655,
+    "timeDay": 2607,
+    "timeWeek": 2532,
+    "timeMonth": 2621,
+    "timeYear": 2655,
     "dailyMinutesDown": {
-      "2024-04-25": 1
+      "2024-04-25": 6
     }
   },
   {
