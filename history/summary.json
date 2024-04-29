@@ -1106,9 +1106,9 @@
     "url": "https://www.mariolenke.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mariolenke.de.ico",
     "slug": "mario-l",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.00%",
+    "uptimeDay": "93.95%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.85%",
@@ -1118,7 +1118,7 @@
     "timeMonth": 1716,
     "timeYear": 1618,
     "dailyMinutesDown": {
-      "2024-04-29": 68,
+      "2024-04-29": 69,
       "2024-04-28": 18,
       "2024-04-17": 59,
       "2024-02-07": 30
