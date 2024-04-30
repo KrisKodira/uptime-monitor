@@ -947,19 +947,19 @@
     "url": "https://www.peterhackmair.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.peterhackmair.com.ico",
     "slug": "peter",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 1026,
-    "timeDay": 985,
-    "timeWeek": 1076,
-    "timeMonth": 1029,
-    "timeYear": 1026,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 1031,
+    "timeDay": 1118,
+    "timeWeek": 1120,
+    "timeMonth": 1043,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2024-04-30": 27
+      "2024-04-30": 32
     }
   },
   {
