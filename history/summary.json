@@ -182,7 +182,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "23.15%",
+    "uptimeYear": "23.16%",
     "time": 2531,
     "timeDay": 1293,
     "timeWeek": 1498,
@@ -970,7 +970,7 @@
     "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "97.03%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "97.80%",
     "time": 2276,
     "timeDay": 1667,
@@ -1207,19 +1207,19 @@
     "url": "https://bjoernkurtenbach.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bjoernkurtenbach.de.ico",
     "slug": "bkp",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2685,
     "timeDay": 3730,
     "timeWeek": 2946,
     "timeMonth": 2731,
     "timeYear": 2685,
     "dailyMinutesDown": {
-      "2024-05-01": 7
+      "2024-05-01": 1
     }
   },
   {
@@ -1274,11 +1274,11 @@
     "url": "https://mueller-sales.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mueller-sales.de.ico",
     "slug": "mueller-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 2988,
     "timeDay": 2079,
@@ -1286,7 +1286,7 @@
     "timeMonth": 2257,
     "timeYear": 2988,
     "dailyMinutesDown": {
-      "2024-05-01": 29
+      "2024-05-01": 22
     }
   },
   {
