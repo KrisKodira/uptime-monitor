@@ -966,11 +966,11 @@
     "url": "https://verkaufenmitwerten.de",
     "icon": "https://icons.duckduckgo.com/ip3/verkaufenmitwerten.de.ico",
     "slug": "sebastian-vm-w",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "97.80%",
     "time": 2276,
     "timeDay": 1667,
@@ -978,6 +978,7 @@
     "timeMonth": 2219,
     "timeYear": 2276,
     "dailyMinutesDown": {
+      "2024-05-01": 1,
       "2024-04-24": 17,
       "2024-04-23": 29,
       "2024-04-22": 49,
@@ -1274,9 +1275,9 @@
     "slug": "mueller-sales",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 2961,
     "timeDay": 2111,
@@ -1284,7 +1285,7 @@
     "timeMonth": 2247,
     "timeYear": 2961,
     "dailyMinutesDown": {
-      "2024-05-01": 27
+      "2024-05-01": 22
     }
   },
   {
