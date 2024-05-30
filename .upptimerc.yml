@@ -13,9 +13,9 @@ sites:
     url: https://www.texttextbaby.com
   - name: 🍚🛍 Preispakete Live Prod
     url: https://texttextbaby.de/
+    __dangerous__body_down: "ELITE"
   - name: 💬 Sebastian Zitzmann
     url: https://sebastian-zitzmann.de
-    __dangerous__body_down: "ELITE"
   - name: 🍚💻 TextTextBaby Server
     url: https://h2965273.stratoserver.net/login_up.php
   - name: 📆 Krisnetics Cal.com
