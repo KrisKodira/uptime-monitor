@@ -182,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "54.72%",
+    "uptime": "54.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "41.86%",
+    "uptimeYear": "41.87%",
     "time": 2027,
     "timeDay": 1305,
     "timeWeek": 1447,
@@ -410,8 +410,7 @@
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
-      "2023-07-11": 1440,
-      "2023-07-10": 1440
+      "2023-07-11": 1440
     }
   },
   {
@@ -485,7 +484,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mautic.krisnetics.biz.ico",
     "slug": "krisletter",
     "status": "up",
-    "uptime": "77.03%",
+    "uptime": "77.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1025,9 +1024,9 @@
     "slug": "dominik-p",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 1460,
     "timeDay": 1665,
@@ -1035,7 +1034,6 @@
     "timeMonth": 1504,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2024-07-08": 6,
       "2024-07-04": 33,
       "2024-06-01": 72,
       "2024-05-20": 25,
