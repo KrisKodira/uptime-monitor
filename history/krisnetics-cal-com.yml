@@ -1,7 +1,7 @@
 url: https://cal.krisnetics.biz/
-status: up
-code: 200
-responseTime: 1384
-lastUpdated: 2024-07-13T23:18:25.757Z
+status: down
+code: 503
+responseTime: 493
+lastUpdated: 2024-07-14T04:35:23.631Z
 startTime: 2022-03-11T08:22:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
