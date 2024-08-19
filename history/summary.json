@@ -1226,19 +1226,19 @@
     "url": "https://www.juliagoessler.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.juliagoessler.com.ico",
     "slug": "julia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1544,
-    "timeDay": 1366,
-    "timeWeek": 1448,
-    "timeMonth": 1560,
-    "timeYear": 1544,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1543,
+    "timeDay": 1411,
+    "timeWeek": 1449,
+    "timeMonth": 1557,
+    "timeYear": 1543,
     "dailyMinutesDown": {
-      "2024-08-19": 1
+      "2024-08-19": 22
     }
   },
   {
