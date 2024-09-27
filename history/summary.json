@@ -166,18 +166,19 @@
     "url": "https://sebastian-zitzmann.de",
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
-    "status": "up",
+    "status": "down",
     "uptime": "59.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.73%",
-    "time": 1921,
+    "uptimeYear": "63.74%",
+    "time": 1920,
     "timeDay": 1270,
     "timeWeek": 1347,
     "timeMonth": 1488,
     "timeYear": 1796,
     "dailyMinutesDown": {
+      "2024-09-27": 1,
       "2024-08-20": 75,
       "2024-08-16": 75,
       "2024-07-18": 74,
@@ -318,8 +319,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -397,7 +397,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.73%",
+    "uptimeYear": "63.74%",
     "time": 1033,
     "timeDay": 1773,
     "timeWeek": 1778,
@@ -537,8 +537,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -754,8 +753,8 @@
     "slug": "sebastian-vm-w",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "98.85%",
     "time": 2226,
@@ -764,7 +763,6 @@
     "timeMonth": 2409,
     "timeYear": 2226,
     "dailyMinutesDown": {
-      "2024-09-26": 3,
       "2024-09-25": 16,
       "2024-09-23": 16,
       "2024-09-21": 68,
@@ -1206,11 +1204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rakete28.com.ico",
     "slug": "rakete-28-liweno",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "94.92%",
+    "uptimeYear": "94.93%",
     "time": 1521,
     "timeDay": 1292,
     "timeWeek": 1280,
