@@ -171,7 +171,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "66.44%",
+    "uptimeYear": "66.46%",
     "time": 1867,
     "timeDay": 1923,
     "timeWeek": 1652,
@@ -310,8 +310,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -320,7 +319,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/h2965273.stratoserver.net.ico",
     "slug": "text-text-baby-server",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
@@ -390,7 +389,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.48%",
+    "uptimeYear": "66.50%",
     "time": 1060,
     "timeDay": 2286,
     "timeWeek": 2035,
@@ -520,8 +519,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -738,11 +736,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/verkaufenmitwerten.de.ico",
     "slug": "sebastian-vm-w",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 2226,
     "timeDay": 2434,
     "timeWeek": 2304,
@@ -1062,9 +1060,9 @@
     "slug": "khl",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 1470,
     "timeDay": 1083,
@@ -1072,7 +1070,6 @@
     "timeMonth": 1742,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2024-10-06": 8,
       "2024-09-23": 15,
       "2024-09-13": 19,
       "2024-09-12": 23,
