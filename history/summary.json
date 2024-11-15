@@ -154,7 +154,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.26%",
+    "uptimeYear": "77.27%",
     "time": 1755,
     "timeDay": 1441,
     "timeWeek": 1464,
@@ -561,19 +561,19 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1676,
-    "timeDay": 1901,
-    "timeWeek": 1719,
-    "timeMonth": 1777,
+    "timeDay": 1759,
+    "timeWeek": 1706,
+    "timeMonth": 1772,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2024-11-15": 1
+      "2024-11-15": 5
     }
   },
   {
