@@ -153,7 +153,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.59%",
+    "uptimeYear": "79.61%",
     "time": 1747,
     "timeDay": 1398,
     "timeWeek": 1455,
@@ -244,8 +244,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -319,7 +318,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.63%",
+    "uptimeYear": "79.64%",
     "time": 1195,
     "timeDay": 1808,
     "timeWeek": 1832,
@@ -401,8 +400,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -977,19 +975,20 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.85%",
-    "time": 1432,
-    "timeDay": 950,
-    "timeWeek": 1379,
-    "timeMonth": 1162,
-    "timeYear": 1432,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.83%",
+    "time": 1433,
+    "timeDay": 1196,
+    "timeWeek": 1405,
+    "timeMonth": 1173,
+    "timeYear": 1433,
     "dailyMinutesDown": {
-      "2024-11-23": 1,
+      "2024-11-24": 65,
+      "2024-11-23": 2,
       "2024-11-21": 20,
       "2024-11-19": 54,
       "2024-11-18": 22,
