@@ -912,11 +912,11 @@
     "url": "https://timonleu.de/",
     "icon": "https://icons.duckduckgo.com/ip3/timonleu.de.ico",
     "slug": "timon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.81%",
     "time": 1462,
     "timeDay": 1462,
@@ -924,7 +924,7 @@
     "timeMonth": 1440,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2024-12-01": 32,
+      "2024-12-01": 33,
       "2024-04-18": 585,
       "2024-04-17": 157,
       "2024-04-13": 53
@@ -1092,9 +1092,9 @@
     "slug": "tay-rec",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 1426,
     "timeDay": 1313,
@@ -1102,7 +1102,7 @@
     "timeMonth": 1390,
     "timeYear": 1426,
     "dailyMinutesDown": {
-      "2024-12-01": 38,
+      "2024-12-01": 32,
       "2024-04-22": 150
     }
   },
