@@ -153,7 +153,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.66%",
+    "uptimeYear": "81.67%",
     "time": 1739,
     "timeDay": 1754,
     "timeWeek": 1388,
@@ -925,10 +925,10 @@
     "url": "https://kuecklich.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kuecklich.com.ico",
     "slug": "kuecklich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1278,
@@ -936,7 +936,9 @@
     "timeWeek": 1225,
     "timeMonth": 1183,
     "timeYear": 1278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-01": 1
+    }
   },
   {
     "name": "BKP",
