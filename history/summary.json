@@ -163,7 +163,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "83.96%",
+    "uptimeYear": "83.97%",
     "time": 1726,
     "timeDay": 1382,
     "timeWeek": 1410,
@@ -240,8 +240,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -317,7 +316,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "84.01%",
+    "uptimeYear": "84.02%",
     "time": 1244,
     "timeDay": 1942,
     "timeWeek": 1900,
@@ -384,8 +383,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -619,19 +617,20 @@
     "url": "https://verkaufenmitwerten.de",
     "icon": "https://icons.duckduckgo.com/ip3/verkaufenmitwerten.de.ico",
     "slug": "sebastian-vm-w",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.00%",
-    "time": 2201,
-    "timeDay": 1969,
-    "timeWeek": 1942,
-    "timeMonth": 1996,
-    "timeYear": 2201,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "98.99%",
+    "time": 2200,
+    "timeDay": 1960,
+    "timeWeek": 1941,
+    "timeMonth": 1995,
+    "timeYear": 2200,
     "dailyMinutesDown": {
-      "2024-12-09": 1,
+      "2024-12-10": 62,
+      "2024-12-09": 3,
       "2024-12-05": 16,
       "2024-12-04": 18,
       "2024-12-02": 57,
