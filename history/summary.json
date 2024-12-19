@@ -148,7 +148,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "86.42%",
+    "uptimeYear": "86.44%",
     "time": 1720,
     "timeDay": 1473,
     "timeWeek": 1511,
@@ -216,8 +216,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -289,11 +288,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mautic.krisnetics.biz.ico",
     "slug": "krisletter",
     "status": "up",
-    "uptime": "80.72%",
+    "uptime": "80.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "86.47%",
+    "uptimeYear": "86.49%",
     "time": 1269,
     "timeDay": 2556,
     "timeWeek": 1980,
@@ -351,8 +350,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -600,7 +598,7 @@
     "time": 2197,
     "timeDay": 2139,
     "timeWeek": 1997,
-    "timeMonth": 1985,
+    "timeMonth": 1978,
     "timeYear": 2197,
     "dailyMinutesDown": {
       "2024-12-10": 62,
@@ -763,7 +761,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.54%",
     "time": 1442,
@@ -867,9 +865,9 @@
     "slug": "karst",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 955,
     "timeDay": 1074,
@@ -877,7 +875,6 @@
     "timeMonth": 894,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2024-12-18": 12,
       "2024-10-26": 17,
       "2024-10-21": 19,
       "2024-06-18": 18,
@@ -965,7 +962,7 @@
     "time": 1476,
     "timeDay": 1560,
     "timeWeek": 1829,
-    "timeMonth": 1814,
+    "timeMonth": 1829,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2024-12-02": 17,
