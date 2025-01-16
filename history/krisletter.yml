@@ -1,7 +1,7 @@
 url: https://mautic.krisnetics.biz/
-status: down
-code: 500
-responseTime: 1232
-lastUpdated: 2025-01-16T12:17:16.917Z
+status: up
+code: 200
+responseTime: 1812
+lastUpdated: 2025-01-16T13:28:58.212Z
 startTime: 2022-03-11T08:22:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
