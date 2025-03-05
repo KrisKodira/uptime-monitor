@@ -546,10 +546,10 @@
     "url": "https://verkaufenmitwerten.de",
     "icon": "https://icons.duckduckgo.com/ip3/verkaufenmitwerten.de.ico",
     "slug": "sebastian-vm-w",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
     "time": 2188,
@@ -558,6 +558,7 @@
     "timeMonth": 2171,
     "timeYear": 2169,
     "dailyMinutesDown": {
+      "2025-03-05": 1,
       "2025-02-02": 16,
       "2025-02-01": 15,
       "2025-01-24": 15,
@@ -643,8 +644,7 @@
       "2024-03-22": 16,
       "2024-03-21": 29,
       "2024-03-17": 30,
-      "2024-03-11": 31,
-      "2024-03-10": 19
+      "2024-03-11": 31
     }
   },
   {
@@ -660,7 +660,7 @@
     "uptimeYear": "99.98%",
     "time": 1502,
     "timeDay": 1669,
-    "timeWeek": 1499,
+    "timeWeek": 1511,
     "timeMonth": 1461,
     "timeYear": 1499,
     "dailyMinutesDown": {
@@ -707,7 +707,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 1688,
@@ -729,9 +729,9 @@
     "slug": "dominik-p",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.47%",
     "time": 1482,
     "timeDay": 2191,
@@ -739,7 +739,6 @@
     "timeMonth": 1837,
     "timeYear": 1493,
     "dailyMinutesDown": {
-      "2025-03-05": 11,
       "2025-03-01": 16,
       "2025-02-24": 21,
       "2025-02-21": 17,
@@ -1158,7 +1157,7 @@
     "uptimeYear": "99.89%",
     "time": 1554,
     "timeDay": 1980,
-    "timeWeek": 1648,
+    "timeWeek": 1647,
     "timeMonth": 1572,
     "timeYear": 1554,
     "dailyMinutesDown": {
