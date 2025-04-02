@@ -14,7 +14,7 @@
     "timeDay": 2261,
     "timeWeek": 1285,
     "timeMonth": 1173,
-    "timeYear": 1129,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-04-01": 166,
       "2025-03-13": 72,
@@ -47,7 +47,7 @@
     "timeDay": 1113,
     "timeWeek": 1413,
     "timeMonth": 1218,
-    "timeYear": 1275,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2025-04-01": 166,
       "2025-03-13": 72,
@@ -75,7 +75,7 @@
     "timeDay": 953,
     "timeWeek": 1148,
     "timeMonth": 1228,
-    "timeYear": 1259,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-04-01": 165,
       "2025-03-13": 71,
@@ -102,7 +102,7 @@
     "timeDay": 895,
     "timeWeek": 1062,
     "timeMonth": 1108,
-    "timeYear": 1214,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2025-04-01": 165,
       "2025-03-13": 71,
@@ -157,7 +157,7 @@
     "timeDay": 855,
     "timeWeek": 1136,
     "timeMonth": 1979,
-    "timeYear": 1579,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-03-06": 35,
       "2025-02-02": 76,
@@ -200,7 +200,7 @@
     "timeDay": 1486,
     "timeWeek": 861,
     "timeMonth": 1182,
-    "timeYear": 926,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2025-04-01": 164,
       "2025-03-13": 70,
@@ -227,7 +227,7 @@
     "timeDay": 1119,
     "timeWeek": 1200,
     "timeMonth": 1251,
-    "timeYear": 1277,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2025-03-30": 55,
       "2025-03-07": 611,
@@ -276,7 +276,7 @@
     "timeDay": 1687,
     "timeWeek": 2259,
     "timeMonth": 2282,
-    "timeYear": 1993,
+    "timeYear": 1996,
     "dailyMinutesDown": {
       "2025-03-30": 55,
       "2025-03-06": 52,
@@ -314,7 +314,7 @@
     "timeDay": 1782,
     "timeWeek": 1937,
     "timeMonth": 2058,
-    "timeYear": 2063,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2025-03-30": 87,
       "2025-03-06": 51,
@@ -413,7 +413,7 @@
     "timeDay": 3019,
     "timeWeek": 3310,
     "timeMonth": 3670,
-    "timeYear": 4629,
+    "timeYear": 4633,
     "dailyMinutesDown": {
       "2025-03-26": 37,
       "2025-03-15": 18,
@@ -476,7 +476,7 @@
     "timeDay": 1325,
     "timeWeek": 1632,
     "timeMonth": 1721,
-    "timeYear": 1829,
+    "timeYear": 1830,
     "dailyMinutesDown": {
       "2025-02-12": 16,
       "2024-12-17": 538,
@@ -498,7 +498,7 @@
     "timeDay": 2072,
     "timeWeek": 2165,
     "timeMonth": 2214,
-    "timeYear": 2462,
+    "timeYear": 2463,
     "dailyMinutesDown": {}
   },
   {
@@ -516,7 +516,7 @@
     "timeDay": 3229,
     "timeWeek": 3038,
     "timeMonth": 3112,
-    "timeYear": 3205,
+    "timeYear": 3207,
     "dailyMinutesDown": {
       "2025-01-31": 17,
       "2024-12-04": 22,
@@ -539,7 +539,7 @@
     "timeDay": 830,
     "timeWeek": 989,
     "timeMonth": 1190,
-    "timeYear": 1339,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-02-24": 20,
       "2025-01-12": 28,
@@ -673,7 +673,7 @@
     "timeDay": 1169,
     "timeWeek": 1319,
     "timeMonth": 1456,
-    "timeYear": 1489,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2025-03-18": 17,
       "2025-03-11": 18,
@@ -698,8 +698,8 @@
     "time": 1161,
     "timeDay": 1871,
     "timeWeek": 1495,
-    "timeMonth": 1281,
-    "timeYear": 1179,
+    "timeMonth": 1297,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-03-31": 16,
       "2025-03-21": 32,
@@ -742,17 +742,16 @@
     "slug": "dominik-p",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.45%",
     "time": 1520,
     "timeDay": 1853,
     "timeWeek": 1826,
     "timeMonth": 1909,
-    "timeYear": 1536,
+    "timeYear": 1537,
     "dailyMinutesDown": {
-      "2025-04-02": 12,
       "2025-03-20": 16,
       "2025-03-14": 17,
       "2025-03-12": 31,
@@ -836,7 +835,7 @@
     "timeDay": 1489,
     "timeWeek": 1797,
     "timeMonth": 3659,
-    "timeYear": 2043,
+    "timeYear": 2044,
     "dailyMinutesDown": {
       "2025-03-26": 77,
       "2025-02-24": 99,
@@ -885,8 +884,8 @@
     "time": 1006,
     "timeDay": 1227,
     "timeWeek": 1015,
-    "timeMonth": 1513,
-    "timeYear": 1028,
+    "timeMonth": 1526,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-03-31": 16,
       "2025-03-10": 19,
@@ -914,7 +913,7 @@
     "timeDay": 1289,
     "timeWeek": 1397,
     "timeMonth": 1573,
-    "timeYear": 1474,
+    "timeYear": 1475,
     "dailyMinutesDown": {
       "2025-03-14": 156,
       "2025-03-13": 89,
@@ -964,7 +963,7 @@
     "timeDay": 1799,
     "timeWeek": 1998,
     "timeMonth": 2162,
-    "timeYear": 2435,
+    "timeYear": 2434,
     "dailyMinutesDown": {
       "2024-10-30": 16,
       "2024-05-20": 19,
@@ -987,7 +986,7 @@
     "timeDay": 872,
     "timeWeek": 974,
     "timeMonth": 1017,
-    "timeYear": 1414,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2025-03-27": 19,
       "2025-02-02": 16,
@@ -1029,18 +1028,19 @@
     "url": "https://kunert.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/kunert.cc.ico",
     "slug": "kunert",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.83%",
     "time": 2097,
     "timeDay": 1652,
     "timeWeek": 2014,
     "timeMonth": 2003,
-    "timeYear": 2113,
+    "timeYear": 2114,
     "dailyMinutesDown": {
+      "2025-04-02": 1,
       "2025-03-28": 17,
       "2025-03-27": 16,
       "2025-03-22": 63,
@@ -1094,7 +1094,7 @@
     "timeDay": 1448,
     "timeWeek": 1655,
     "timeMonth": 2058,
-    "timeYear": 2087,
+    "timeYear": 2084,
     "dailyMinutesDown": {
       "2024-05-20": 19,
       "2024-05-01": 56
@@ -1115,7 +1115,7 @@
     "timeDay": 1219,
     "timeWeek": 1289,
     "timeMonth": 1825,
-    "timeYear": 1442,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2025-03-06": 56,
       "2025-03-05": 26,
