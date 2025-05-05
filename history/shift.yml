@@ -1,7 +1,7 @@
 url: https://shifthappens.de
-status: up
-code: 200
-responseTime: 1490
-lastUpdated: 2025-05-04T23:22:36.101Z
+status: down
+code: 500
+responseTime: 528
+lastUpdated: 2025-05-05T08:23:04.731Z
 startTime: 2024-02-05T07:45:45.408Z
 generator: Upptime <https://github.com/upptime/upptime>
