@@ -27,7 +27,7 @@ sites:
   - name: 📈 Matomo
     url: https://krisnetics.biz/matomo/
   - name: 💼 Plesk
-    url: https://krisnetics.biz:8443/login_up.php
+    url: https://h2952382.stratoserver.net/login_up.php
   - name: Annette
     url: https://annette-lartey.de/
   - name: CFB
