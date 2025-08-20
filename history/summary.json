@@ -5,23 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/texttextbaby.com.ico",
     "slug": "text-text-baby-com",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "100.00%",
     "time": 1303,
     "timeDay": 1951,
     "timeWeek": 1248,
     "timeMonth": 1490,
     "timeYear": 1303,
-    "dailyMinutesDown": {
-      "2025-04-01": 166,
-      "2025-03-13": 72,
-      "2025-03-04": 36,
-      "2024-12-04": 85,
-      "2024-12-01": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🍚🛍 TextTextBaby WWW COM",
@@ -336,17 +330,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unternehmerplus.de.ico",
     "slug": "unternehmerplus",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
     "time": 3113,
     "timeDay": 3280,
     "timeWeek": 3002,
     "timeMonth": 2873,
     "timeYear": 3126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-12": 21,
+      "2025-07-22": 66,
+      "2025-06-19": 19,
+      "2025-04-14": 39,
+      "2025-01-31": 17,
+      "2024-12-04": 22
+    }
   },
   {
     "name": "Peter",
@@ -675,66 +676,35 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingenieurshelden.de.ico",
     "slug": "ig-helden",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1254,
     "timeDay": 1081,
     "timeWeek": 1143,
     "timeMonth": 1253,
     "timeYear": 1255,
-    "dailyMinutesDown": {
-      "2025-07-29": 58,
-      "2025-03-07": 38,
-      "2024-10-17": 21,
-      "2024-10-15": 23,
-      "2024-10-14": 70
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mario L.",
     "url": "https://www.mariolenke.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mariolenke.de.ico",
     "slug": "mario-l",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.80%",
-    "time": 2355,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2356,
     "timeDay": 3032,
     "timeWeek": 3125,
     "timeMonth": 3114,
     "timeYear": 2681,
-    "dailyMinutesDown": {
-      "2025-08-20": 47,
-      "2025-08-18": 35,
-      "2025-08-16": 20,
-      "2025-08-13": 54,
-      "2025-08-12": 91,
-      "2025-08-11": 23,
-      "2025-08-07": 25,
-      "2025-08-04": 125,
-      "2025-07-31": 119,
-      "2025-07-29": 32,
-      "2025-07-26": 20,
-      "2025-07-14": 26,
-      "2025-07-03": 30,
-      "2025-06-16": 23,
-      "2025-06-15": 18,
-      "2025-06-05": 38,
-      "2025-05-27": 17,
-      "2025-03-26": 77,
-      "2025-02-24": 99,
-      "2025-01-16": 20,
-      "2024-11-19": 33,
-      "2024-11-18": 22,
-      "2024-11-08": 16,
-      "2024-10-10": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Phönixinseln",
@@ -801,17 +771,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/timonleu.de.ico",
     "slug": "timon",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 1494,
     "timeDay": 1392,
     "timeWeek": 1411,
     "timeMonth": 1535,
     "timeYear": 1509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 303,
+      "2025-03-14": 156,
+      "2025-03-13": 89,
+      "2024-12-04": 17,
+      "2024-12-01": 53
+    }
   },
   {
     "name": "Kücklich",
@@ -819,23 +795,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuecklich.com.ico",
     "slug": "kuecklich",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "100.00%",
     "time": 1240,
     "timeDay": 1275,
     "timeWeek": 1272,
     "timeMonth": 1330,
     "timeYear": 1252,
-    "dailyMinutesDown": {
-      "2025-03-20": 405,
-      "2025-03-19": 632,
-      "2025-03-18": 45,
-      "2025-03-17": 79,
-      "2024-12-01": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKP",
@@ -843,17 +813,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/bjoernkurtenbach.de.ico",
     "slug": "bkp",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.84%",
     "time": 2399,
     "timeDay": 2428,
     "timeWeek": 3010,
     "timeMonth": 2421,
     "timeYear": 2302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-12": 21,
+      "2025-04-04": 797,
+      "2024-10-30": 16
+    }
   },
   {
     "name": "KHL",
@@ -1008,17 +982,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.juliagoessler.com.ico",
     "slug": "julia",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1547,
     "timeDay": 1344,
     "timeWeek": 1395,
     "timeMonth": 1505,
     "timeYear": 1547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 38,
+      "2024-09-05": 41
+    }
   },
   {
     "name": "Rakete 28 Liweno",
