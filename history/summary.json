@@ -13,7 +13,7 @@
     "time": 1306,
     "timeDay": 1237,
     "timeWeek": 1465,
-    "timeMonth": 1447,
+    "timeMonth": 1462,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2025-08-26": 129,
@@ -38,7 +38,7 @@
     "time": 1245,
     "timeDay": 1417,
     "timeWeek": 1499,
-    "timeMonth": 1435,
+    "timeMonth": 1452,
     "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-08-26": 129,
@@ -63,7 +63,7 @@
     "time": 1475,
     "timeDay": 1181,
     "timeWeek": 1179,
-    "timeMonth": 1380,
+    "timeMonth": 1385,
     "timeYear": 1472,
     "dailyMinutesDown": {
       "2025-06-23": 117,
@@ -168,7 +168,7 @@
     "time": 2080,
     "timeDay": 1750,
     "timeWeek": 1863,
-    "timeMonth": 2053,
+    "timeMonth": 2060,
     "timeYear": 2210,
     "dailyMinutesDown": {
       "2025-07-25": 25,
@@ -345,7 +345,7 @@
     "time": 2400,
     "timeDay": 2062,
     "timeWeek": 2198,
-    "timeMonth": 2413,
+    "timeMonth": 2424,
     "timeYear": 2268,
     "dailyMinutesDown": {
       "2025-06-19": 19,
@@ -367,7 +367,7 @@
     "time": 3111,
     "timeDay": 3269,
     "timeWeek": 3169,
-    "timeMonth": 2995,
+    "timeMonth": 3023,
     "timeYear": 3130,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -385,14 +385,14 @@
     "slug": "peter",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "93.88%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.83%",
     "time": 1434,
-    "timeDay": 1585,
+    "timeDay": 1705,
     "timeWeek": 1368,
-    "timeMonth": 1655,
+    "timeMonth": 1670,
     "timeYear": 1448,
     "dailyMinutesDown": {
       "2025-08-28": 88,
@@ -511,8 +511,7 @@
       "2024-09-03": 41,
       "2024-09-02": 46,
       "2024-09-01": 25,
-      "2024-08-31": 58,
-      "2024-08-29": 35
+      "2024-08-31": 58
     }
   },
   {
@@ -777,17 +776,17 @@
     "slug": "phoenixinseln",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 481,
     "timeDay": 591,
     "timeWeek": 592,
     "timeMonth": 488,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-08-28": 79,
+      "2025-08-28": 74,
       "2025-08-26": 21,
       "2025-08-06": 17,
       "2024-10-22": 16
@@ -947,8 +946,7 @@
       "2024-09-23": 15,
       "2024-09-13": 19,
       "2024-09-12": 23,
-      "2024-09-04": 45,
-      "2024-08-29": 18
+      "2024-09-04": 45
     }
   },
   {
@@ -1073,18 +1071,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rakete28.com.ico",
     "slug": "rakete-28-liweno",
     "status": "down",
-    "uptime": "95.77%",
+    "uptime": "95.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.69%",
-    "uptimeMonth": "85.36%",
-    "uptimeYear": "96.39%",
+    "uptimeWeek": "64.41%",
+    "uptimeMonth": "85.06%",
+    "uptimeYear": "96.36%",
     "time": 1691,
     "timeDay": 485,
     "timeWeek": 1244,
     "timeMonth": 1957,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2025-08-28": 1409,
+      "2025-08-29": 99,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 609,
       "2025-08-16": 20,
