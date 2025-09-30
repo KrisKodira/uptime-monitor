@@ -497,8 +497,7 @@
       "2024-10-08": 17,
       "2024-10-05": 25,
       "2024-10-04": 17,
-      "2024-10-03": 16,
-      "2024-09-30": 83
+      "2024-10-03": 16
     }
   },
   {
@@ -628,9 +627,9 @@
     "slug": "dominik-p",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.73%",
     "time": 1644,
     "timeDay": 156,
@@ -638,7 +637,6 @@
     "timeMonth": 534,
     "timeYear": 1697,
     "dailyMinutesDown": {
-      "2025-09-29": 6,
       "2025-09-10": 41,
       "2025-08-19": 22,
       "2025-07-12": 18,
@@ -1072,7 +1070,7 @@
     "uptime": "95.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.36%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "95.39%",
     "time": 1722,
     "timeDay": 1462,
