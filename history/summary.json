@@ -769,10 +769,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/phoenixinseln.eu.ico",
     "slug": "phoenixinseln",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.84%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 503,
     "timeDay": 604,
@@ -780,7 +780,6 @@
     "timeMonth": 781,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-11-04": 6,
       "2025-10-20": 34,
       "2025-10-15": 16,
       "2025-10-11": 15,
@@ -938,8 +937,7 @@
       "2024-11-19": 54,
       "2024-11-18": 22,
       "2024-11-11": 20,
-      "2024-11-09": 15,
-      "2024-11-05": 16
+      "2024-11-09": 15
     }
   },
   {
