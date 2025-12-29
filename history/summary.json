@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/texttextbaby.com.ico",
     "slug": "text-text-baby-com",
     "status": "down",
-    "uptime": "98.57%",
+    "uptime": "98.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.94%",
-    "uptimeYear": "97.27%",
+    "uptimeMonth": "68.60%",
+    "uptimeYear": "97.24%",
     "time": 1315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1295,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2025-12-28": 1408,
+      "2025-12-29": 118,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -40,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.texttextbaby.com.ico",
     "slug": "text-text-baby-www-com",
     "status": "down",
-    "uptime": "98.38%",
+    "uptime": "98.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.94%",
-    "uptimeYear": "97.27%",
+    "uptimeMonth": "68.60%",
+    "uptimeYear": "97.24%",
     "time": 1290,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1411,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2025-12-28": 1408,
+      "2025-12-29": 118,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -79,7 +81,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.23%",
     "time": 1445,
     "timeDay": 1427,
     "timeWeek": 1303,
@@ -95,8 +97,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -108,15 +109,16 @@
     "uptime": "92.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.94%",
-    "uptimeYear": "97.35%",
+    "uptimeMonth": "68.60%",
+    "uptimeYear": "97.33%",
     "time": 937,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1206,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-12-28": 1408,
+      "2025-12-29": 118,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -142,7 +144,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.36%",
+    "uptimeYear": "97.39%",
     "time": 1263,
     "timeDay": 1263,
     "timeWeek": 1130,
@@ -165,8 +167,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -179,7 +180,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.09%",
     "time": 2183,
     "timeDay": 1917,
     "timeWeek": 2014,
@@ -196,8 +197,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -208,16 +208,17 @@
     "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.88%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "98.77%",
+    "uptimeWeek": "46.39%",
+    "uptimeMonth": "87.66%",
+    "uptimeYear": "98.75%",
     "time": 2071,
     "timeDay": 0,
     "timeWeek": 1864,
     "timeMonth": 1974,
     "timeYear": 2079,
     "dailyMinutesDown": {
-      "2025-12-28": 1408,
+      "2025-12-29": 119,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 965,
@@ -468,7 +469,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 2136,
     "timeDay": 2057,
     "timeWeek": 2254,
@@ -520,8 +521,7 @@
       "2025-01-20": 17,
       "2025-01-14": 15,
       "2025-01-03": 62,
-      "2025-01-02": 2,
-      "2024-12-29": 79
+      "2025-01-02": 2
     }
   },
   {
@@ -1013,8 +1013,7 @@
       "2025-02-02": 16,
       "2025-01-20": 16,
       "2025-01-03": 62,
-      "2025-01-02": 1,
-      "2024-12-29": 79
+      "2025-01-02": 1
     }
   },
   {
