@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.texttextbaby.com.ico",
     "slug": "text-text-baby-www-com",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -630,7 +630,7 @@
     "timeDay": 1444,
     "timeWeek": 1491,
     "timeMonth": 1705,
-    "timeYear": 1460,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2026-02-14": 18,
       "2026-02-09": 33,
@@ -783,8 +783,7 @@
       "2025-03-20": 16,
       "2025-03-14": 17,
       "2025-03-12": 31,
-      "2025-03-11": 24,
-      "2025-03-09": 16
+      "2025-03-11": 24
     }
   },
   {
@@ -793,7 +792,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingenieurshelden.de.ico",
     "slug": "ig-helden",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
@@ -919,7 +918,7 @@
     "timeDay": 958,
     "timeWeek": 1033,
     "timeMonth": 1001,
-    "timeYear": 1129,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2026-02-25": 56,
       "2026-02-14": 18,
@@ -1137,8 +1136,8 @@
     "slug": "tay-rec",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "10.42%",
+    "uptimeWeek": "1.49%",
     "uptimeMonth": "73.63%",
     "uptimeYear": "97.36%",
     "time": 1427,
@@ -1196,7 +1195,7 @@
     "status": "up",
     "uptime": "94.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.49%",
+    "uptimeWeek": "77.97%",
     "uptimeMonth": "86.80%",
     "uptimeYear": "92.68%",
     "time": 1804,
