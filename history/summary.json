@@ -1040,17 +1040,17 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "down",
-    "uptime": "84.58%",
-    "uptimeDay": "92.24%",
-    "uptimeWeek": "89.51%",
-    "uptimeMonth": "84.21%",
-    "uptimeYear": "84.58%",
-    "time": 2053,
-    "timeDay": 1624,
-    "timeWeek": 2016,
-    "timeMonth": 2044,
-    "timeYear": 2053,
+    "status": "up",
+    "uptime": "84.50%",
+    "uptimeDay": "88.51%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "84.50%",
+    "time": 2044,
+    "timeDay": 1460,
+    "timeWeek": 1989,
+    "timeMonth": 2032,
+    "timeYear": 2044,
     "dailyMinutesDown": {
       "2026-04-13": 237,
       "2026-04-14": 70,
@@ -1092,7 +1092,7 @@
       "2026-05-21": 235,
       "2026-05-22": 166,
       "2026-05-23": 110,
-      "2026-05-24": 2
+      "2026-05-24": 55
     }
   },
   {
