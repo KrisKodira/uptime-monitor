@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "77.76%",
+    "uptime": "77.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -308,16 +308,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "82.50%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "99.46%",
     "time": 1884,
-    "timeDay": 1042,
-    "timeWeek": 1210,
-    "timeMonth": 1416,
+    "timeDay": 1306,
+    "timeWeek": 1258,
+    "timeMonth": 1425,
     "timeYear": 1881,
     "dailyMinutesDown": {
       "2025-07-16": 21,
@@ -355,7 +355,7 @@
       "2026-06-02": 173,
       "2026-06-01": 44,
       "2026-06-03": 106,
-      "2026-06-04": 6
+      "2026-06-04": 252
     }
   },
   {
@@ -671,11 +671,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.60%",
+    "uptimeDay": "81.75%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "99.17%",
     "time": 1474,
     "timeDay": 1764,
     "timeWeek": 1349,
@@ -738,7 +738,7 @@
       "2026-06-02": 173,
       "2026-06-01": 43,
       "2026-06-03": 106,
-      "2026-06-04": 6
+      "2026-06-04": 263
     }
   },
   {
@@ -974,10 +974,10 @@
     "url": "https://www.karst-rechtsanwaelte.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.karst-rechtsanwaelte.de.ico",
     "slug": "karst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.55%",
     "time": 1134,
@@ -1021,7 +1021,8 @@
       "2026-05-01": 56,
       "2026-05-22": 465,
       "2026-05-24": 185,
-      "2026-05-25": 222
+      "2026-05-25": 222,
+      "2026-06-04": 2
     }
   },
   {
@@ -1052,17 +1053,17 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "down",
-    "uptime": "86.56%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "90.01%",
-    "uptimeMonth": "86.89%",
-    "uptimeYear": "86.56%",
-    "time": 2019,
-    "timeDay": 1492,
-    "timeWeek": 1772,
-    "timeMonth": 1911,
-    "timeYear": 2019,
+    "status": "up",
+    "uptime": "86.26%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "87.48%",
+    "uptimeMonth": "86.30%",
+    "uptimeYear": "86.26%",
+    "time": 2021,
+    "timeDay": 1695,
+    "timeWeek": 1810,
+    "timeMonth": 1916,
+    "timeYear": 2021,
     "dailyMinutesDown": {
       "2026-04-15": 64,
       "2026-04-16": 162,
@@ -1109,7 +1110,7 @@
       "2026-05-31": 274,
       "2026-06-02": 315,
       "2026-06-03": 206,
-      "2026-06-04": 2
+      "2026-06-04": 258
     }
   },
   {
@@ -1284,7 +1285,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tayrec.de.ico",
     "slug": "tay-rec",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
