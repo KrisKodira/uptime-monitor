@@ -592,11 +592,11 @@
     "url": "https://shifthappens.de",
     "icon": "https://icons.duckduckgo.com/ip3/shifthappens.de.ico",
     "slug": "shift",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.00%",
     "time": 1355,
     "timeDay": 1152,
@@ -666,7 +666,8 @@
       "2026-06-04": 286,
       "2026-06-03": 100,
       "2026-06-05": 277,
-      "2026-06-06": 58
+      "2026-06-06": 58,
+      "2026-06-07": 2
     }
   },
   {
@@ -1055,19 +1056,19 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "86.53%",
-    "uptimeDay": "70.23%",
-    "uptimeWeek": "81.11%",
-    "uptimeMonth": "86.06%",
-    "uptimeYear": "86.53%",
-    "time": 1978,
-    "timeDay": 1856,
-    "timeWeek": 1663,
-    "timeMonth": 1859,
-    "timeYear": 1978,
+    "status": "down",
+    "uptime": "86.65%",
+    "uptimeDay": "70.12%",
+    "uptimeWeek": "81.39%",
+    "uptimeMonth": "86.05%",
+    "uptimeYear": "86.65%",
+    "time": 1970,
+    "timeDay": 1653,
+    "timeWeek": 1631,
+    "timeMonth": 1844,
+    "timeYear": 1970,
     "dailyMinutesDown": {
-      "2026-04-20": 203,
+      "2026-04-20": 138,
       "2026-04-21": 91,
       "2026-04-22": 456,
       "2026-04-23": 195,
@@ -1110,7 +1111,7 @@
       "2026-06-04": 542,
       "2026-06-05": 276,
       "2026-06-06": 218,
-      "2026-06-07": 210
+      "2026-06-07": 212
     }
   },
   {
