@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sebastian-zitzmann.de.ico",
     "slug": "sebastian-zitzmann",
     "status": "up",
-    "uptime": "77.84%",
+    "uptime": "77.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -309,11 +309,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "84.82%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "99.27%",
+    "uptime": "99.61%",
+    "uptimeDay": "79.14%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "99.23%",
     "time": 1862,
     "timeDay": 986,
     "timeWeek": 1134,
@@ -359,7 +359,7 @@
       "2026-06-05": 189,
       "2026-06-07": 323,
       "2026-06-08": 100,
-      "2026-06-09": 6
+      "2026-06-09": 201
     }
   },
   {
@@ -595,11 +595,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shifthappens.de.ico",
     "slug": "shift",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "90.48%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "98.95%",
+    "uptime": "99.40%",
+    "uptimeDay": "86.40%",
+    "uptimeWeek": "88.55%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "98.92%",
     "time": 1353,
     "timeDay": 1243,
     "timeWeek": 1039,
@@ -670,7 +670,7 @@
       "2026-06-05": 277,
       "2026-06-06": 58,
       "2026-06-07": 238,
-      "2026-06-09": 2
+      "2026-06-09": 196
     }
   },
   {
@@ -679,11 +679,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "80.69%",
-    "uptimeWeek": "78.76%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "98.87%",
+    "uptime": "99.45%",
+    "uptimeDay": "67.20%",
+    "uptimeWeek": "76.84%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "98.83%",
     "time": 1473,
     "timeDay": 1068,
     "timeWeek": 1445,
@@ -748,7 +748,7 @@
       "2026-06-05": 184,
       "2026-06-07": 598,
       "2026-06-08": 277,
-      "2026-06-09": 1
+      "2026-06-09": 196
     }
   },
   {
@@ -1060,11 +1060,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
     "status": "down",
-    "uptime": "86.59%",
-    "uptimeDay": "79.27%",
-    "uptimeWeek": "74.98%",
+    "uptime": "86.39%",
+    "uptimeDay": "65.78%",
+    "uptimeWeek": "73.05%",
     "uptimeMonth": "85.05%",
-    "uptimeYear": "86.59%",
+    "uptimeYear": "86.39%",
     "time": 1964,
     "timeDay": 2362,
     "timeWeek": 1606,
@@ -1114,7 +1114,7 @@
       "2026-06-06": 218,
       "2026-06-07": 648,
       "2026-06-08": 305,
-      "2026-06-09": 10
+      "2026-06-09": 205
     }
   },
   {
@@ -1349,7 +1349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rakete28.com.ico",
     "slug": "rakete-28-liweno",
     "status": "up",
-    "uptime": "95.19%",
+    "uptime": "95.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
