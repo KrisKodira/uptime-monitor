@@ -14,7 +14,7 @@
     "timeDay": 818,
     "timeWeek": 1208,
     "timeMonth": 1352,
-    "timeYear": 1365,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2025-08-26": 129,
       "2025-09-03": 155,
@@ -57,7 +57,7 @@
     "timeDay": 1311,
     "timeWeek": 1867,
     "timeMonth": 1793,
-    "timeYear": 1393,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2025-08-26": 129,
       "2025-09-03": 155,
@@ -122,7 +122,7 @@
     "timeDay": 885,
     "timeWeek": 1138,
     "timeMonth": 1126,
-    "timeYear": 1026,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2025-08-26": 23,
       "2025-11-26": 45,
@@ -165,7 +165,7 @@
     "timeDay": 1701,
     "timeWeek": 1777,
     "timeMonth": 1593,
-    "timeYear": 1312,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2025-08-11": 280,
       "2025-08-10": 520,
@@ -184,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mautic.krisnetics.biz.ico",
     "slug": "krisletter",
     "status": "up",
-    "uptime": "86.68%",
+    "uptime": "86.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -193,7 +193,7 @@
     "timeDay": 2489,
     "timeWeek": 2764,
     "timeMonth": 2707,
-    "timeYear": 2153,
+    "timeYear": 2154,
     "dailyMinutesDown": {
       "2025-07-25": 25,
       "2026-04-21": 433,
@@ -215,7 +215,7 @@
     "timeDay": 1823,
     "timeWeek": 2294,
     "timeMonth": 2071,
-    "timeYear": 2034,
+    "timeYear": 2035,
     "dailyMinutesDown": {
       "2025-06-28": 59,
       "2025-09-26": 42,
@@ -270,7 +270,7 @@
     "timeDay": 2595,
     "timeWeek": 3249,
     "timeMonth": 3369,
-    "timeYear": 4006,
+    "timeYear": 4008,
     "dailyMinutesDown": {
       "2025-06-15": 30,
       "2025-06-24": 17,
@@ -310,13 +310,13 @@
     "slug": "cfb",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "60.09%",
-    "uptimeWeek": "83.18%",
+    "uptimeDay": "60.52%",
+    "uptimeWeek": "84.16%",
     "uptimeMonth": "91.62%",
     "uptimeYear": "99.05%",
     "time": 1839,
-    "timeDay": 952,
-    "timeWeek": 1115,
+    "timeDay": 1066,
+    "timeWeek": 1093,
     "timeMonth": 1253,
     "timeYear": 1828,
     "dailyMinutesDown": {
@@ -400,7 +400,7 @@
     "timeDay": 2496,
     "timeWeek": 2992,
     "timeMonth": 3008,
-    "timeYear": 2489,
+    "timeYear": 2490,
     "dailyMinutesDown": {
       "2025-06-19": 19,
       "2025-11-18": 55
@@ -421,7 +421,7 @@
     "timeDay": 3129,
     "timeWeek": 3351,
     "timeMonth": 3225,
-    "timeYear": 3006,
+    "timeYear": 3005,
     "dailyMinutesDown": {
       "2025-06-19": 19,
       "2025-07-22": 66,
@@ -527,7 +527,7 @@
     "timeDay": 1325,
     "timeWeek": 1245,
     "timeMonth": 1761,
-    "timeYear": 2246,
+    "timeYear": 2245,
     "dailyMinutesDown": {
       "2025-06-23": 21,
       "2025-06-26": 26,
@@ -600,14 +600,14 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "83.07%",
-    "uptimeWeek": "88.77%",
+    "uptimeWeek": "89.01%",
     "uptimeMonth": "95.96%",
     "uptimeYear": "98.80%",
     "time": 1359,
     "timeDay": 1007,
-    "timeWeek": 1041,
+    "timeWeek": 1010,
     "timeMonth": 1010,
-    "timeYear": 1334,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-07-10": 22,
       "2025-07-19": 29,
@@ -686,15 +686,15 @@
     "slug": "tim-j",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "60.48%",
-    "uptimeWeek": "77.47%",
+    "uptimeDay": "60.90%",
+    "uptimeWeek": "78.44%",
     "uptimeMonth": "89.24%",
     "uptimeYear": "98.62%",
     "time": 1476,
     "timeDay": 1686,
-    "timeWeek": 1433,
+    "timeWeek": 1471,
     "timeMonth": 1461,
-    "timeYear": 1520,
+    "timeYear": 1521,
     "dailyMinutesDown": {
       "2025-06-18": 28,
       "2025-06-25": 23,
@@ -799,11 +799,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alan-herweg.de.ico",
     "slug": "alan",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "83.50%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "98.71%",
+    "uptime": "99.42%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "98.67%",
     "time": 1709,
     "timeDay": 1296,
     "timeWeek": 1481,
@@ -822,7 +822,7 @@
       "2026-02-12": 477,
       "2026-04-14": 482,
       "2026-04-13": 473,
-      "2026-06-12": 238
+      "2026-06-12": 439
     }
   },
   {
@@ -840,7 +840,7 @@
     "timeDay": 137,
     "timeWeek": 1458,
     "timeMonth": 588,
-    "timeYear": 668,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2025-06-18": 23,
       "2025-06-23": 22,
@@ -885,7 +885,7 @@
     "timeDay": 1281,
     "timeWeek": 1444,
     "timeMonth": 1461,
-    "timeYear": 1359,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-07-29": 58,
       "2025-09-01": 412,
@@ -914,7 +914,7 @@
     "timeDay": 1410,
     "timeWeek": 1865,
     "timeMonth": 1651,
-    "timeYear": 2614,
+    "timeYear": 2616,
     "dailyMinutesDown": {
       "2025-06-15": 18,
       "2025-06-16": 23,
@@ -971,7 +971,7 @@
     "timeDay": 752,
     "timeWeek": 455,
     "timeMonth": 644,
-    "timeYear": 625,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2025-08-06": 17,
       "2025-08-26": 21,
@@ -1002,7 +1002,7 @@
     "timeDay": 1033,
     "timeWeek": 5357,
     "timeMonth": 2197,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-06-18": 28,
       "2025-07-31": 29,
@@ -1071,19 +1071,18 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "86.77%",
-    "uptimeDay": "72.65%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "85.20%",
-    "uptimeYear": "86.77%",
+    "status": "down",
+    "uptime": "86.82%",
+    "uptimeDay": "72.30%",
+    "uptimeWeek": "76.79%",
+    "uptimeMonth": "85.18%",
+    "uptimeYear": "86.82%",
     "time": 1963,
     "timeDay": 2213,
-    "timeWeek": 1839,
+    "timeWeek": 1836,
     "timeMonth": 1827,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2026-04-24": 17,
       "2026-04-25": 138,
       "2026-04-26": 197,
       "2026-04-27": 643,
@@ -1127,7 +1126,7 @@
       "2026-06-09": 378,
       "2026-06-10": 170,
       "2026-06-11": 226,
-      "2026-06-12": 387
+      "2026-06-12": 393
     }
   },
   {
@@ -1163,7 +1162,7 @@
     "timeDay": 1928,
     "timeWeek": 2176,
     "timeMonth": 2237,
-    "timeYear": 2335,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-12-11": 25,
@@ -1187,7 +1186,7 @@
     "timeDay": 1159,
     "timeWeek": 986,
     "timeMonth": 1189,
-    "timeYear": 1467,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2025-06-27": 23,
       "2025-07-08": 21,
@@ -1252,7 +1251,7 @@
     "timeDay": 1853,
     "timeWeek": 3364,
     "timeMonth": 2656,
-    "timeYear": 2290,
+    "timeYear": 2291,
     "dailyMinutesDown": {
       "2025-09-05": 15,
       "2025-09-14": 18,
@@ -1290,7 +1289,7 @@
     "timeDay": 1477,
     "timeWeek": 1764,
     "timeMonth": 1822,
-    "timeYear": 1794,
+    "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-09-30": 17,
@@ -1315,7 +1314,7 @@
     "timeDay": 1339,
     "timeWeek": 1341,
     "timeMonth": 1306,
-    "timeYear": 1371,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2025-09-01": 98,
       "2025-10-02": 436,
@@ -1426,17 +1425,17 @@
     "url": "https://marcofehr.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/marcofehr.ch.ico",
     "slug": "marco-fehr-bau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.55%",
     "time": 1780,
     "timeDay": 1682,
     "timeWeek": 1921,
     "timeMonth": 2089,
-    "timeYear": 1821,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2025-07-10": 22,
       "2025-07-19": 29,
@@ -1481,7 +1480,8 @@
       "2026-05-22": 145,
       "2026-06-04": 149,
       "2026-06-07": 13,
-      "2026-06-06": 33
+      "2026-06-06": 33,
+      "2026-06-12": 2
     }
   }
 ]
