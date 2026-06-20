@@ -122,7 +122,7 @@
     "timeDay": 1080,
     "timeWeek": 1154,
     "timeMonth": 1130,
-    "timeYear": 1033,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-08-26": 23,
       "2025-11-26": 45,
@@ -165,7 +165,7 @@
     "timeDay": 1413,
     "timeWeek": 1670,
     "timeMonth": 1615,
-    "timeYear": 1325,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-08-11": 280,
       "2025-08-10": 520,
@@ -193,7 +193,7 @@
     "timeDay": 2609,
     "timeWeek": 3003,
     "timeMonth": 2778,
-    "timeYear": 2176,
+    "timeYear": 2177,
     "dailyMinutesDown": {
       "2025-07-25": 25,
       "2026-04-21": 433,
@@ -270,7 +270,7 @@
     "timeDay": 2800,
     "timeWeek": 3183,
     "timeMonth": 3321,
-    "timeYear": 3935,
+    "timeYear": 3930,
     "dailyMinutesDown": {
       "2025-06-24": 17,
       "2025-08-06": 27,
@@ -406,7 +406,7 @@
     "timeDay": 2646,
     "timeWeek": 3027,
     "timeMonth": 3031,
-    "timeYear": 2512,
+    "timeYear": 2513,
     "dailyMinutesDown": {
       "2025-11-18": 55
     }
@@ -426,7 +426,7 @@
     "timeDay": 3296,
     "timeWeek": 3491,
     "timeMonth": 3360,
-    "timeYear": 3017,
+    "timeYear": 3019,
     "dailyMinutesDown": {
       "2025-07-22": 66,
       "2025-08-12": 21,
@@ -531,7 +531,7 @@
     "timeDay": 1426,
     "timeWeek": 1393,
     "timeMonth": 1598,
-    "timeYear": 2234,
+    "timeYear": 2235,
     "dailyMinutesDown": {
       "2025-06-23": 21,
       "2025-06-26": 26,
@@ -601,10 +601,10 @@
     "url": "https://shifthappens.de",
     "icon": "https://icons.duckduckgo.com/ip3/shifthappens.de.ico",
     "slug": "shift",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "86.73%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "86.72%",
     "uptimeMonth": "92.11%",
     "uptimeYear": "98.48%",
     "time": 1352,
@@ -688,7 +688,7 @@
       "2026-06-17": 127,
       "2026-06-18": 98,
       "2026-06-19": 309,
-      "2026-06-20": 64
+      "2026-06-20": 65
     }
   },
   {
@@ -706,7 +706,7 @@
     "timeDay": 1573,
     "timeWeek": 1430,
     "timeMonth": 1421,
-    "timeYear": 1520,
+    "timeYear": 1521,
     "dailyMinutesDown": {
       "2025-06-25": 23,
       "2025-07-29": 240,
@@ -819,14 +819,14 @@
     "status": "up",
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.99%",
+    "uptimeWeek": "77.63%",
     "uptimeMonth": "90.56%",
     "uptimeYear": "97.96%",
     "time": 1707,
     "timeDay": 1387,
     "timeWeek": 1553,
     "timeMonth": 1573,
-    "timeYear": 1673,
+    "timeYear": 1672,
     "dailyMinutesDown": {
       "2025-08-26": 23,
       "2025-09-09": 404,
@@ -861,7 +861,7 @@
     "timeDay": 191,
     "timeWeek": 298,
     "timeMonth": 574,
-    "timeYear": 630,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2025-06-23": 22,
       "2025-06-25": 19,
@@ -905,7 +905,7 @@
     "timeDay": 1289,
     "timeWeek": 1422,
     "timeMonth": 1435,
-    "timeYear": 1366,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2025-07-29": 58,
       "2025-09-01": 412,
@@ -934,7 +934,7 @@
     "timeDay": 1580,
     "timeWeek": 1633,
     "timeMonth": 1640,
-    "timeYear": 2589,
+    "timeYear": 2591,
     "dailyMinutesDown": {
       "2025-07-03": 30,
       "2025-07-14": 26,
@@ -989,7 +989,7 @@
     "timeDay": 169,
     "timeWeek": 449,
     "timeMonth": 583,
-    "timeYear": 627,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-08-06": 17,
       "2025-08-26": 21,
@@ -1020,7 +1020,7 @@
     "timeDay": 994,
     "timeWeek": 1178,
     "timeMonth": 2175,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-07-31": 29,
       "2025-08-05": 18,
@@ -1090,11 +1090,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
     "status": "down",
-    "uptime": "87.06%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "81.15%",
-    "uptimeYear": "87.06%",
+    "uptime": "87.01%",
+    "uptimeDay": "71.34%",
+    "uptimeWeek": "73.23%",
+    "uptimeMonth": "81.01%",
+    "uptimeYear": "87.01%",
     "time": 1916,
     "timeDay": 1657,
     "timeWeek": 1621,
@@ -1146,7 +1146,7 @@
       "2026-06-17": 340,
       "2026-06-18": 93,
       "2026-06-19": 452,
-      "2026-06-20": 349
+      "2026-06-20": 413
     }
   },
   {
@@ -1182,7 +1182,7 @@
     "timeDay": 2614,
     "timeWeek": 2312,
     "timeMonth": 2270,
-    "timeYear": 2338,
+    "timeYear": 2339,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-12-11": 25,
@@ -1206,7 +1206,7 @@
     "timeDay": 1262,
     "timeWeek": 1393,
     "timeMonth": 1265,
-    "timeYear": 1472,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2025-06-27": 23,
       "2025-07-08": 21,
@@ -1376,7 +1376,7 @@
     "timeDay": 1376,
     "timeWeek": 1491,
     "timeMonth": 1469,
-    "timeYear": 1473,
+    "timeYear": 1474,
     "dailyMinutesDown": {}
   },
   {
