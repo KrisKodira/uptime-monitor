@@ -306,16 +306,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "50.33%",
-    "uptimeWeek": "79.20%",
-    "uptimeMonth": "86.01%",
-    "uptimeYear": "98.46%",
-    "time": 1793,
-    "timeDay": 1251,
-    "timeWeek": 1105,
-    "timeMonth": 1147,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "51.10%",
+    "uptimeWeek": "77.95%",
+    "uptimeMonth": "85.73%",
+    "uptimeYear": "98.44%",
+    "time": 1792,
+    "timeDay": 1326,
+    "timeWeek": 1128,
+    "timeMonth": 1154,
     "timeYear": 1750,
     "dailyMinutesDown": {
       "2025-07-16": 21,
@@ -370,7 +370,7 @@
       "2026-06-20": 308,
       "2026-06-21": 286,
       "2026-06-22": 706,
-      "2026-06-23": 128
+      "2026-06-23": 254
     }
   },
   {
@@ -698,17 +698,17 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "50.38%",
-    "uptimeWeek": "79.38%",
-    "uptimeMonth": "82.94%",
-    "uptimeYear": "97.98%",
-    "time": 1471,
-    "timeDay": 1550,
-    "timeWeek": 1567,
-    "timeMonth": 1428,
-    "timeYear": 1520,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "51.16%",
+    "uptimeWeek": "78.13%",
+    "uptimeMonth": "82.65%",
+    "uptimeYear": "97.96%",
+    "time": 1470,
+    "timeDay": 1447,
+    "timeWeek": 1538,
+    "timeMonth": 1422,
+    "timeYear": 1519,
     "dailyMinutesDown": {
       "2025-06-25": 23,
       "2025-07-29": 240,
@@ -780,7 +780,7 @@
       "2026-06-20": 303,
       "2026-06-21": 286,
       "2026-06-22": 706,
-      "2026-06-23": 128
+      "2026-06-23": 254
     }
   },
   {
@@ -1093,19 +1093,19 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "87.10%",
-    "uptimeDay": "67.90%",
-    "uptimeWeek": "77.27%",
-    "uptimeMonth": "80.34%",
-    "uptimeYear": "87.10%",
+    "status": "down",
+    "uptime": "87.15%",
+    "uptimeDay": "67.45%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "80.33%",
+    "uptimeYear": "87.15%",
     "time": 1917,
     "timeDay": 1953,
     "timeWeek": 1817,
     "timeMonth": 1723,
     "timeYear": 1917,
     "dailyMinutesDown": {
-      "2026-05-02": 96,
+      "2026-05-02": 48,
       "2026-05-03": 314,
       "2026-05-04": 189,
       "2026-05-05": 272,
@@ -1151,7 +1151,8 @@
       "2026-06-19": 452,
       "2026-06-20": 415,
       "2026-06-21": 123,
-      "2026-06-22": 567
+      "2026-06-22": 567,
+      "2026-06-23": 7
     }
   },
   {
@@ -1391,7 +1392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rakete28.com.ico",
     "slug": "rakete-28-liweno",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1452,13 +1453,13 @@
     "url": "https://marcofehr.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/marcofehr.ch.ico",
     "slug": "marco-fehr-bau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.51%",
-    "time": 1784,
+    "time": 1785,
     "timeDay": 1838,
     "timeWeek": 1855,
     "timeMonth": 1962,
@@ -1511,7 +1512,8 @@
       "2026-06-13": 24,
       "2026-06-12": 7,
       "2026-06-17": 99,
-      "2026-06-18": 89
+      "2026-06-18": 89,
+      "2026-06-23": 2
     }
   }
 ]
