@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.texttextbaby.com.ico",
     "slug": "text-text-baby-www-com",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1088,19 +1088,18 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "87.40%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "81.97%",
-    "uptimeMonth": "79.67%",
-    "uptimeYear": "87.40%",
+    "status": "down",
+    "uptime": "87.46%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "81.90%",
+    "uptimeMonth": "79.65%",
+    "uptimeYear": "87.46%",
     "time": 1919,
     "timeDay": 2075,
     "timeWeek": 1896,
     "timeMonth": 1735,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2026-05-03": 49,
       "2026-05-04": 189,
       "2026-05-05": 272,
       "2026-05-06": 266,
@@ -1149,7 +1148,7 @@
       "2026-06-23": 176,
       "2026-06-25": 392,
       "2026-06-24": 21,
-      "2026-06-26": 125
+      "2026-06-26": 131
     }
   },
   {
@@ -1451,10 +1450,10 @@
     "url": "https://marcofehr.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/marcofehr.ch.ico",
     "slug": "marco-fehr-bau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "95.88%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.43%",
     "time": 1789,
@@ -1512,7 +1511,8 @@
       "2026-06-17": 99,
       "2026-06-18": 89,
       "2026-06-23": 171,
-      "2026-06-25": 243
+      "2026-06-25": 243,
+      "2026-06-26": 2
     }
   }
 ]
