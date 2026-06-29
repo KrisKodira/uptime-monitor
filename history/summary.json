@@ -305,11 +305,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "92.05%",
+    "uptime": "99.08%",
+    "uptimeDay": "87.29%",
     "uptimeWeek": "71.61%",
-    "uptimeMonth": "80.49%",
-    "uptimeYear": "97.96%",
+    "uptimeMonth": "80.33%",
+    "uptimeYear": "97.94%",
     "time": 1778,
     "timeDay": 939,
     "timeWeek": 1654,
@@ -374,7 +374,7 @@
       "2026-06-26": 502,
       "2026-06-27": 635,
       "2026-06-28": 459,
-      "2026-06-29": 114
+      "2026-06-29": 183
     }
   },
   {
@@ -703,10 +703,10 @@
     "slug": "tim-j",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "92.08%",
+    "uptimeDay": "87.32%",
     "uptimeWeek": "71.70%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "97.61%",
+    "uptimeMonth": "77.99%",
+    "uptimeYear": "97.59%",
     "time": 1467,
     "timeDay": 1681,
     "timeWeek": 1267,
@@ -771,7 +771,7 @@
       "2026-06-26": 500,
       "2026-06-27": 630,
       "2026-06-28": 457,
-      "2026-06-29": 114
+      "2026-06-29": 183
     }
   },
   {
@@ -1085,7 +1085,7 @@
     "status": "up",
     "uptime": "87.62%",
     "uptimeDay": "80.81%",
-    "uptimeWeek": "85.44%",
+    "uptimeWeek": "86.12%",
     "uptimeMonth": "79.03%",
     "uptimeYear": "87.62%",
     "time": 1913,
@@ -1326,10 +1326,10 @@
     "url": "https://tayrec.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tayrec.de.ico",
     "slug": "tay-rec",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.02%",
     "time": 1392,
@@ -1359,7 +1359,8 @@
       "2026-04-09": 330,
       "2026-04-08": 1203,
       "2026-04-13": 54,
-      "2026-04-30": 222
+      "2026-04-30": 222,
+      "2026-06-29": 1
     }
   },
   {
@@ -1390,7 +1391,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.85%",
+    "uptimeYear": "93.86%",
     "time": 1714,
     "timeDay": 1350,
     "timeWeek": 1418,
