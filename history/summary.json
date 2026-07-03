@@ -304,16 +304,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "82.86%",
-    "uptimeWeek": "76.02%",
-    "uptimeMonth": "79.75%",
-    "uptimeYear": "97.82%",
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "76.57%",
+    "uptimeWeek": "75.32%",
+    "uptimeMonth": "79.54%",
+    "uptimeYear": "97.81%",
     "time": 1758,
-    "timeDay": 875,
-    "timeWeek": 1013,
-    "timeMonth": 1253,
+    "timeDay": 1032,
+    "timeWeek": 1051,
+    "timeMonth": 1256,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2025-07-16": 21,
@@ -378,7 +378,7 @@
       "2026-06-30": 212,
       "2026-07-02": 210,
       "2026-07-01": 20,
-      "2026-07-03": 132
+      "2026-07-03": 222
     }
   },
   {
@@ -702,16 +702,16 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "82.88%",
-    "uptimeWeek": "76.16%",
-    "uptimeMonth": "77.41%",
-    "uptimeYear": "97.51%",
-    "time": 1473,
-    "timeDay": 1618,
-    "timeWeek": 1566,
-    "timeMonth": 1444,
+    "uptimeDay": "76.61%",
+    "uptimeWeek": "75.45%",
+    "uptimeMonth": "77.21%",
+    "uptimeYear": "97.49%",
+    "time": 1472,
+    "timeDay": 1661,
+    "timeWeek": 1575,
+    "timeMonth": 1448,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2026-02-14": 18,
@@ -772,7 +772,7 @@
       "2026-06-30": 207,
       "2026-07-02": 211,
       "2026-07-01": 19,
-      "2026-07-03": 132
+      "2026-07-03": 222
     }
   },
   {
@@ -1083,19 +1083,19 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "87.96%",
-    "uptimeDay": "90.79%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "79.65%",
-    "uptimeYear": "87.96%",
+    "status": "down",
+    "uptime": "88.10%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "79.64%",
+    "uptimeYear": "88.10%",
     "time": 1909,
     "timeDay": 1877,
     "timeWeek": 1776,
     "timeMonth": 1721,
     "timeYear": 1909,
     "dailyMinutesDown": {
-      "2026-05-06": 171,
+      "2026-05-06": 24,
       "2026-05-07": 254,
       "2026-05-08": 196,
       "2026-05-09": 495,
@@ -1146,7 +1146,8 @@
       "2026-06-29": 276,
       "2026-06-30": 101,
       "2026-07-01": 85,
-      "2026-07-02": 238
+      "2026-07-02": 238,
+      "2026-07-03": 2
     }
   },
   {
