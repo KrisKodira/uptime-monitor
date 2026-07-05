@@ -304,19 +304,18 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "58.69%",
-    "uptimeWeek": "82.20%",
-    "uptimeMonth": "79.05%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "58.24%",
+    "uptimeWeek": "82.14%",
+    "uptimeMonth": "79.03%",
     "uptimeYear": "97.65%",
-    "time": 1740,
-    "timeDay": 1018,
-    "timeWeek": 1084,
-    "timeMonth": 1247,
-    "timeYear": 1716,
+    "time": 1739,
+    "timeDay": 963,
+    "timeWeek": 1065,
+    "timeMonth": 1242,
+    "timeYear": 1713,
     "dailyMinutesDown": {
-      "2025-11-23": 18,
       "2025-11-28": 18,
       "2025-12-10": 26,
       "2026-01-11": 71,
@@ -378,7 +377,7 @@
       "2026-07-01": 20,
       "2026-07-03": 341,
       "2026-07-04": 289,
-      "2026-07-05": 476
+      "2026-07-05": 482
     }
   },
   {
@@ -702,19 +701,18 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "58.76%",
-    "uptimeWeek": "82.28%",
-    "uptimeMonth": "77.11%",
-    "uptimeYear": "97.37%",
+    "uptimeDay": "58.32%",
+    "uptimeWeek": "82.21%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "97.38%",
     "time": 1470,
     "timeDay": 992,
     "timeWeek": 1577,
     "timeMonth": 1425,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2026-04-12": 37,
       "2026-04-16": 65,
       "2026-04-17": 49,
       "2026-04-18": 59,
@@ -768,7 +766,7 @@
       "2026-07-01": 19,
       "2026-07-03": 341,
       "2026-07-04": 288,
-      "2026-07-05": 475
+      "2026-07-05": 481
     }
   },
   {
@@ -1080,11 +1078,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
     "status": "down",
-    "uptime": "88.28%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "89.22%",
-    "uptimeMonth": "80.65%",
-    "uptimeYear": "88.28%",
+    "uptime": "88.24%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "88.61%",
+    "uptimeMonth": "80.51%",
+    "uptimeYear": "88.24%",
     "time": 1914,
     "timeDay": 1956,
     "timeWeek": 1990,
@@ -1144,7 +1142,7 @@
       "2026-07-02": 238,
       "2026-07-03": 323,
       "2026-07-04": 61,
-      "2026-07-05": 2
+      "2026-07-05": 63
     }
   },
   {
