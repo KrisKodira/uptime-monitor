@@ -306,16 +306,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "80.91%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "97.26%",
-    "time": 1697,
-    "timeDay": 1044,
-    "timeWeek": 1064,
-    "timeMonth": 1094,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "80.92%",
+    "uptimeMonth": "82.95%",
+    "uptimeYear": "97.25%",
+    "time": 1696,
+    "timeDay": 1258,
+    "timeWeek": 1083,
+    "timeMonth": 1093,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2026-05-22": 484,
@@ -369,7 +369,7 @@
       "2026-07-19": 284,
       "2026-07-20": 460,
       "2026-07-22": 63,
-      "2026-07-23": 2
+      "2026-07-23": 57
     }
   },
   {
@@ -692,17 +692,17 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "down",
+    "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "93.53%",
-    "uptimeWeek": "79.78%",
-    "uptimeMonth": "81.83%",
-    "uptimeYear": "97.12%",
-    "time": 1469,
-    "timeDay": 740,
-    "timeWeek": 1390,
-    "timeMonth": 1441,
-    "timeYear": 1516,
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "79.80%",
+    "uptimeMonth": "81.79%",
+    "uptimeYear": "97.11%",
+    "time": 1468,
+    "timeDay": 800,
+    "timeWeek": 1367,
+    "timeMonth": 1442,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2026-05-30": 58,
       "2026-06-02": 173,
@@ -751,7 +751,7 @@
       "2026-07-19": 283,
       "2026-07-20": 458,
       "2026-07-22": 58,
-      "2026-07-23": 93
+      "2026-07-23": 149
     }
   },
   {
