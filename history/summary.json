@@ -309,7 +309,7 @@
     "status": "up",
     "uptime": "98.88%",
     "uptimeDay": "96.03%",
-    "uptimeWeek": "83.06%",
+    "uptimeWeek": "83.72%",
     "uptimeMonth": "83.18%",
     "uptimeYear": "97.25%",
     "time": 1695,
@@ -589,11 +589,11 @@
     "url": "https://shifthappens.de",
     "icon": "https://icons.duckduckgo.com/ip3/shifthappens.de.ico",
     "slug": "shift",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "98.28%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.34%",
     "time": 1319,
     "timeDay": 1261,
@@ -683,7 +683,8 @@
       "2026-07-11": 85,
       "2026-07-17": 102,
       "2026-07-18": 53,
-      "2026-07-22": 58
+      "2026-07-22": 58,
+      "2026-07-24": 11
     }
   },
   {
@@ -694,7 +695,7 @@
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "89.68%",
-    "uptimeWeek": "81.93%",
+    "uptimeWeek": "82.59%",
     "uptimeMonth": "82.03%",
     "uptimeYear": "97.11%",
     "time": 1468,
@@ -1064,11 +1065,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
     "status": "down",
-    "uptime": "90.41%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "88.00%",
-    "uptimeYear": "90.41%",
+    "uptime": "90.37%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "90.71%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "90.37%",
     "time": 1873,
     "timeDay": 2027,
     "timeWeek": 1433,
@@ -1130,7 +1131,7 @@
       "2026-07-20": 52,
       "2026-07-21": 120,
       "2026-07-22": 58,
-      "2026-07-24": 154
+      "2026-07-24": 220
     }
   },
   {
@@ -1180,11 +1181,11 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "98.83%",
     "time": 1461,
     "timeDay": 1103,
@@ -1245,7 +1246,8 @@
       "2026-07-13": 72,
       "2026-07-15": 55,
       "2026-07-16": 203,
-      "2026-07-17": 97
+      "2026-07-17": 97,
+      "2026-07-24": 6
     }
   },
   {
@@ -1436,12 +1438,12 @@
     "url": "https://marcofehr.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/marcofehr.ch.ico",
     "slug": "marco-fehr-bau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "98.42%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.35%",
     "time": 1799,
     "timeDay": 2041,
     "timeWeek": 1761,
@@ -1500,7 +1502,8 @@
       "2026-06-27": 194,
       "2026-07-03": 69,
       "2026-07-07": 85,
-      "2026-07-18": 47
+      "2026-07-18": 47,
+      "2026-07-24": 2
     }
   }
 ]
