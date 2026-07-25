@@ -313,7 +313,7 @@
     "uptimeYear": "97.25%",
     "time": 1696,
     "timeDay": 2153,
-    "timeWeek": 1289,
+    "timeWeek": 1331,
     "timeMonth": 1115,
     "timeYear": 1646,
     "dailyMinutesDown": {
@@ -1062,17 +1062,17 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "down",
-    "uptime": "90.42%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "87.87%",
-    "uptimeYear": "90.42%",
-    "time": 1873,
-    "timeDay": 2040,
+    "status": "up",
+    "uptime": "90.38%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "87.72%",
+    "uptimeYear": "90.38%",
+    "time": 1872,
+    "timeDay": 1862,
     "timeWeek": 1495,
-    "timeMonth": 1740,
-    "timeYear": 1873,
+    "timeMonth": 1737,
+    "timeYear": 1872,
     "dailyMinutesDown": {
       "2026-05-24": 62,
       "2026-05-26": 265,
@@ -1129,7 +1129,7 @@
       "2026-07-21": 120,
       "2026-07-22": 58,
       "2026-07-24": 485,
-      "2026-07-25": 13
+      "2026-07-25": 79
     }
   },
   {
