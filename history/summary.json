@@ -308,13 +308,13 @@
     "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "84.15%",
-    "uptimeWeek": "89.88%",
-    "uptimeMonth": "83.90%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "84.19%",
     "uptimeYear": "97.30%",
     "time": 1688,
     "timeDay": 1050,
-    "timeWeek": 1281,
-    "timeMonth": 1113,
+    "timeWeek": 1327,
+    "timeMonth": 1120,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2026-05-23": 126,
@@ -692,20 +692,18 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "83.83%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "97.09%",
-    "time": 1461,
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "82.37%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "82.98%",
+    "uptimeYear": "97.13%",
+    "time": 1462,
     "timeDay": 634,
     "timeWeek": 1015,
     "timeMonth": 1405,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2026-06-03": 106,
-      "2026-06-02": 154,
       "2026-06-04": 821,
       "2026-06-05": 184,
       "2026-06-07": 598,
@@ -750,7 +748,8 @@
       "2026-07-20": 458,
       "2026-07-22": 58,
       "2026-07-23": 149,
-      "2026-07-25": 232
+      "2026-07-25": 232,
+      "2026-07-26": 21
     }
   },
   {
@@ -979,12 +978,12 @@
     "url": "https://www.karst-rechtsanwaelte.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.karst-rechtsanwaelte.de.ico",
     "slug": "karst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.24%",
     "time": 1165,
     "timeDay": 1114,
     "timeWeek": 968,
@@ -1032,7 +1031,8 @@
       "2026-06-30": 202,
       "2026-07-07": 113,
       "2026-07-18": 35,
-      "2026-07-23": 87
+      "2026-07-23": 87,
+      "2026-07-26": 16
     }
   },
   {
@@ -1063,11 +1063,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
     "status": "up",
-    "uptime": "90.53%",
+    "uptime": "90.54%",
     "uptimeDay": "87.51%",
     "uptimeWeek": "88.82%",
     "uptimeMonth": "87.75%",
-    "uptimeYear": "90.53%",
+    "uptimeYear": "90.54%",
     "time": 1863,
     "timeDay": 1267,
     "timeWeek": 1506,
@@ -1179,11 +1179,11 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "98.79%",
     "time": 1461,
     "timeDay": 891,
@@ -1246,7 +1246,7 @@
       "2026-07-17": 97,
       "2026-07-24": 144,
       "2026-07-25": 96,
-      "2026-07-26": 6
+      "2026-07-26": 18
     }
   },
   {
@@ -1254,11 +1254,11 @@
     "url": "https://kunert.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/kunert.cc.ico",
     "slug": "kunert",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "99.61%",
     "time": 2318,
     "timeDay": 1831,
@@ -1287,7 +1287,8 @@
       "2026-06-11": 2,
       "2026-06-27": 199,
       "2026-06-28": 199,
-      "2026-07-18": 51
+      "2026-07-18": 51,
+      "2026-07-26": 7
     }
   },
   {
@@ -1320,10 +1321,10 @@
     "url": "https://tayrec.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tayrec.de.ico",
     "slug": "tay-rec",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "96.85%",
     "time": 1388,
@@ -1355,7 +1356,8 @@
       "2026-04-13": 54,
       "2026-04-30": 222,
       "2026-06-30": 797,
-      "2026-06-29": 113
+      "2026-06-29": 113,
+      "2026-07-26": 2
     }
   },
   {
