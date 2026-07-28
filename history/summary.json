@@ -1066,19 +1066,18 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "90.92%",
-    "uptimeDay": "78.29%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "88.23%",
-    "uptimeYear": "90.92%",
+    "status": "down",
+    "uptime": "91.00%",
+    "uptimeDay": "77.80%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "88.22%",
+    "uptimeYear": "91.00%",
     "time": 1865,
     "timeDay": 1790,
     "timeWeek": 1663,
     "timeMonth": 1728,
     "timeYear": 1865,
     "dailyMinutesDown": {
-      "2026-05-31": 115,
       "2026-06-02": 315,
       "2026-06-03": 206,
       "2026-06-04": 542,
@@ -1132,7 +1131,7 @@
       "2026-07-25": 185,
       "2026-07-26": 6,
       "2026-07-27": 127,
-      "2026-07-28": 186
+      "2026-07-28": 193
     }
   },
   {
@@ -1327,11 +1326,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tayrec.de.ico",
     "slug": "tay-rec",
     "status": "down",
-    "uptime": "98.43%",
+    "uptime": "98.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.59%",
-    "uptimeMonth": "89.77%",
-    "uptimeYear": "96.17%",
+    "uptimeWeek": "63.56%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "96.15%",
     "time": 1387,
     "timeDay": 0,
     "timeWeek": 1262,
@@ -1362,7 +1361,7 @@
       "2026-04-30": 222,
       "2026-06-30": 797,
       "2026-06-29": 113,
-      "2026-07-28": 1099,
+      "2026-07-28": 1203,
       "2026-07-27": 1440,
       "2026-07-26": 1031
     }
@@ -1372,19 +1371,19 @@
     "url": "https://www.juliagoessler.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.juliagoessler.com.ico",
     "slug": "julia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "63.18%",
-    "uptimeWeek": "94.74%",
+    "uptimeDay": "63.04%",
+    "uptimeWeek": "94.72%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.90%",
-    "time": 1461,
-    "timeDay": 749,
-    "timeWeek": 1250,
-    "timeMonth": 1342,
-    "timeYear": 1466,
+    "time": 1458,
+    "timeDay": 566,
+    "timeWeek": 1127,
+    "timeMonth": 1302,
+    "timeYear": 1462,
     "dailyMinutesDown": {
-      "2026-07-28": 530
+      "2026-07-28": 532
     }
   },
   {
