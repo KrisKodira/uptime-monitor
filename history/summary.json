@@ -156,10 +156,10 @@
     "slug": "krisnetics-cal-com",
     "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.43%",
     "time": 1334,
     "timeDay": 1831,
     "timeWeek": 1702,
@@ -177,7 +177,7 @@
       "2026-05-08": 82,
       "2026-07-08": 552,
       "2026-07-07": 142,
-      "2026-08-03": 118
+      "2026-08-03": 191
     }
   },
   {
@@ -187,10 +187,10 @@
     "slug": "krisletter",
     "status": "down",
     "uptime": "87.11%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "87.05%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.87%",
     "time": 2252,
     "timeDay": 2600,
     "timeWeek": 3000,
@@ -199,7 +199,7 @@
     "dailyMinutesDown": {
       "2026-04-21": 433,
       "2026-04-20": 83,
-      "2026-08-03": 113
+      "2026-08-03": 187
     }
   },
   {
@@ -209,10 +209,10 @@
     "slug": "krisnetics-com",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "94.88%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.39%",
     "time": 2011,
     "timeDay": 1874,
     "timeWeek": 1544,
@@ -231,7 +231,7 @@
       "2026-04-20": 82,
       "2026-07-28": 400,
       "2026-07-27": 8,
-      "2026-08-03": 108
+      "2026-08-03": 182
     }
   },
   {
@@ -241,10 +241,10 @@
     "slug": "matomo",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "60.95%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "55.85%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.58%",
     "time": 1715,
     "timeDay": 1131,
     "timeWeek": 1590,
@@ -257,7 +257,7 @@
       "2026-02-07": 182,
       "2026-04-21": 433,
       "2026-04-20": 82,
-      "2026-08-03": 562
+      "2026-08-03": 636
     }
   },
   {
@@ -311,17 +311,17 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
+    "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "66.04%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "85.89%",
-    "uptimeYear": "97.32%",
+    "uptimeDay": "61.39%",
+    "uptimeWeek": "83.23%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "97.31%",
     "time": 1654,
-    "timeDay": 664,
-    "timeWeek": 1126,
-    "timeMonth": 1139,
-    "timeYear": 1608,
+    "timeDay": 958,
+    "timeWeek": 1156,
+    "timeMonth": 1146,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2026-06-08": 100,
       "2026-06-09": 258,
@@ -372,7 +372,7 @@
       "2026-07-31": 277,
       "2026-08-01": 177,
       "2026-08-02": 279,
-      "2026-08-03": 333
+      "2026-08-03": 400
     }
   },
   {
@@ -697,17 +697,17 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "87.36%",
-    "uptimeYear": "97.22%",
-    "time": 1456,
-    "timeDay": 637,
-    "timeWeek": 1169,
-    "timeMonth": 1306,
-    "timeYear": 1457,
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "97.20%",
+    "time": 1455,
+    "timeDay": 731,
+    "timeWeek": 1140,
+    "timeMonth": 1299,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2026-06-07": 598,
       "2026-06-08": 277,
@@ -755,7 +755,7 @@
       "2026-07-26": 132,
       "2026-07-27": 196,
       "2026-07-28": 161,
-      "2026-08-03": 99
+      "2026-08-03": 166
     }
   },
   {
@@ -981,16 +981,16 @@
     "url": "https://www.karst-rechtsanwaelte.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.karst-rechtsanwaelte.de.ico",
     "slug": "karst",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "88.84%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.20%",
     "time": 1165,
-    "timeDay": 1175,
-    "timeWeek": 1074,
-    "timeMonth": 1000,
+    "timeDay": 1168,
+    "timeWeek": 1085,
+    "timeMonth": 1004,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-08-05": 18,
@@ -1035,7 +1035,7 @@
       "2026-07-18": 35,
       "2026-07-23": 87,
       "2026-07-26": 128,
-      "2026-08-03": 94
+      "2026-08-03": 161
     }
   },
   {
@@ -1065,17 +1065,17 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "down",
-    "uptime": "91.93%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "91.93%",
-    "time": 1874,
+    "status": "up",
+    "uptime": "91.89%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "91.89%",
+    "time": 1875,
     "timeDay": 2245,
-    "timeWeek": 2001,
-    "timeMonth": 1767,
-    "timeYear": 1874,
+    "timeWeek": 2013,
+    "timeMonth": 1773,
+    "timeYear": 1875,
     "dailyMinutesDown": {
       "2026-06-05": 94,
       "2026-06-06": 218,
@@ -1132,7 +1132,7 @@
       "2026-07-30": 54,
       "2026-07-31": 103,
       "2026-08-02": 168,
-      "2026-08-03": 7
+      "2026-08-03": 73
     }
   },
   {
@@ -1334,8 +1334,8 @@
     "uptime": "97.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.92%",
-    "uptimeYear": "94.51%",
+    "uptimeMonth": "71.75%",
+    "uptimeYear": "94.49%",
     "time": 1387,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1366,7 +1366,7 @@
       "2026-04-30": 222,
       "2026-06-30": 797,
       "2026-06-29": 113,
-      "2026-08-03": 1191,
+      "2026-08-03": 1265,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -1385,9 +1385,9 @@
     "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.83%",
-    "uptimeMonth": "79.25%",
-    "uptimeYear": "98.27%",
+    "uptimeWeek": "9.10%",
+    "uptimeMonth": "79.08%",
+    "uptimeYear": "98.26%",
     "time": 1435,
     "timeDay": 88,
     "timeWeek": 297,
@@ -1396,7 +1396,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-03": 1191,
+      "2026-08-03": 1265,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -1465,7 +1465,7 @@
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "98.70%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.28%",
     "time": 1803,
     "timeDay": 2065,
