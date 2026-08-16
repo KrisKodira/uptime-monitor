@@ -318,16 +318,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "85.02%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "85.01%",
     "uptimeYear": "98.25%",
     "time": 1582,
-    "timeDay": 1003,
-    "timeWeek": 1145,
-    "timeMonth": 1118,
+    "timeDay": 1028,
+    "timeWeek": 1150,
+    "timeMonth": 1120,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2026-07-02": 115,
@@ -369,7 +369,7 @@
       "2026-08-13": 164,
       "2026-08-14": 189,
       "2026-08-15": 95,
-      "2026-08-16": 160
+      "2026-08-16": 164
     }
   },
   {
@@ -761,9 +761,9 @@
     "slug": "mrs-fox",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "59.16%",
-    "uptimeWeek": "88.72%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "58.15%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.39%",
     "time": 1694,
     "timeDay": 1035,
@@ -787,7 +787,7 @@
       "2026-05-07": 95,
       "2026-07-20": 163,
       "2026-08-15": 549,
-      "2026-08-16": 588
+      "2026-08-16": 603
     }
   },
   {
@@ -1070,7 +1070,7 @@
     "uptimeMonth": "91.28%",
     "uptimeYear": "94.28%",
     "time": 1879,
-    "timeDay": 1760,
+    "timeDay": 1769,
     "timeWeek": 1934,
     "timeMonth": 1810,
     "timeYear": 1879,
@@ -1337,7 +1337,7 @@
     "status": "up",
     "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.42%",
+    "uptimeWeek": "31.56%",
     "uptimeMonth": "36.27%",
     "uptimeYear": "91.54%",
     "time": 1383,
@@ -1401,8 +1401,8 @@
     "uptime": "97.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.38%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "36.34%",
+    "uptimeYear": "94.69%",
     "time": 1396,
     "timeDay": 39,
     "timeWeek": 87,
@@ -1411,7 +1411,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-16": 1253,
+      "2026-08-16": 1267,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
