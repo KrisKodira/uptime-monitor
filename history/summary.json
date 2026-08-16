@@ -318,16 +318,16 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "87.90%",
-    "uptimeWeek": "88.13%",
+    "uptimeDay": "87.78%",
+    "uptimeWeek": "88.11%",
     "uptimeMonth": "84.89%",
     "uptimeYear": "98.23%",
     "time": 1583,
-    "timeDay": 1003,
-    "timeWeek": 1140,
-    "timeMonth": 1117,
+    "timeDay": 1040,
+    "timeWeek": 1146,
+    "timeMonth": 1119,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2026-07-02": 210,
@@ -370,7 +370,7 @@
       "2026-08-13": 164,
       "2026-08-14": 189,
       "2026-08-15": 95,
-      "2026-08-16": 148
+      "2026-08-16": 149
     }
   },
   {
@@ -762,9 +762,9 @@
     "slug": "mrs-fox",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "74.98%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "97.55%",
+    "uptimeDay": "74.14%",
+    "uptimeWeek": "90.86%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.45%",
     "time": 1697,
     "timeDay": 1049,
@@ -788,7 +788,7 @@
       "2026-05-07": 95,
       "2026-07-20": 163,
       "2026-08-15": 549,
-      "2026-08-16": 360
+      "2026-08-16": 372
     }
   },
   {
@@ -1064,17 +1064,17 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "down",
+    "status": "up",
     "uptime": "94.27%",
-    "uptimeDay": "91.79%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "94.27%",
-    "time": 1878,
-    "timeDay": 1736,
-    "timeWeek": 1926,
-    "timeMonth": 1804,
-    "timeYear": 1878,
+    "time": 1879,
+    "timeDay": 1757,
+    "timeWeek": 1929,
+    "timeMonth": 1806,
+    "timeYear": 1879,
     "dailyMinutesDown": {
       "2026-06-17": 340,
       "2026-06-16": 3,
@@ -1131,7 +1131,7 @@
       "2026-08-12": 52,
       "2026-08-13": 90,
       "2026-08-15": 20,
-      "2026-08-16": 119
+      "2026-08-16": 129
     }
   },
   {
@@ -1339,7 +1339,7 @@
     "status": "up",
     "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "28.52%",
+    "uptimeWeek": "28.64%",
     "uptimeMonth": "36.27%",
     "uptimeYear": "91.54%",
     "time": 1383,
@@ -1403,7 +1403,7 @@
     "uptime": "97.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.04%",
+    "uptimeMonth": "37.01%",
     "uptimeYear": "94.75%",
     "time": 1396,
     "timeDay": 39,
@@ -1413,7 +1413,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-16": 961,
+      "2026-08-16": 973,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
