@@ -318,15 +318,15 @@
     "url": "https://crossfitbaden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/crossfitbaden.ch.ico",
     "slug": "cfb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "90.52%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "84.98%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "87.85%",
+    "uptimeMonth": "84.97%",
     "uptimeYear": "98.17%",
     "time": 1587,
-    "timeDay": 1080,
-    "timeWeek": 1152,
+    "timeDay": 1094,
+    "timeWeek": 1154,
     "timeMonth": 1122,
     "timeYear": 1527,
     "dailyMinutesDown": {
@@ -372,7 +372,7 @@
       "2026-08-13": 164,
       "2026-08-14": 189,
       "2026-08-15": 95,
-      "2026-08-16": 109
+      "2026-08-16": 115
     }
   },
   {
@@ -762,11 +762,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mrsfox.ch.ico",
     "slug": "mrs-fox",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.50%",
+    "uptimeDay": "88.51%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.50%",
     "time": 1699,
     "timeDay": 1202,
     "timeWeek": 2228,
@@ -789,7 +789,7 @@
       "2026-05-07": 95,
       "2026-07-20": 163,
       "2026-08-15": 549,
-      "2026-08-16": 150
+      "2026-08-16": 165
     }
   },
   {
@@ -1182,17 +1182,17 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "98.66%",
     "time": 1449,
-    "timeDay": 983,
-    "timeWeek": 964,
-    "timeMonth": 964,
-    "timeYear": 1444,
+    "timeDay": 940,
+    "timeWeek": 953,
+    "timeMonth": 961,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-08-19": 22,
       "2025-11-10": 63,
@@ -1258,7 +1258,7 @@
       "2026-08-14": 40,
       "2026-08-13": 4,
       "2026-08-15": 67,
-      "2026-08-16": 2
+      "2026-08-16": 16
     }
   },
   {
@@ -1341,7 +1341,7 @@
     "status": "up",
     "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.70%",
+    "uptimeWeek": "25.86%",
     "uptimeMonth": "36.27%",
     "uptimeYear": "91.54%",
     "time": 1383,
@@ -1405,8 +1405,8 @@
     "uptime": "97.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.69%",
-    "uptimeYear": "94.81%",
+    "uptimeMonth": "37.65%",
+    "uptimeYear": "94.80%",
     "time": 1396,
     "timeDay": 39,
     "timeWeek": 87,
@@ -1415,7 +1415,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-16": 677,
+      "2026-08-16": 692,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
