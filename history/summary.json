@@ -587,11 +587,11 @@
     "url": "https://shifthappens.de",
     "icon": "https://icons.duckduckgo.com/ip3/shifthappens.de.ico",
     "slug": "shift",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "98.58%",
     "time": 1304,
     "timeDay": 1271,
@@ -684,7 +684,8 @@
       "2026-07-29": 57,
       "2026-07-30": 183,
       "2026-08-09": 20,
-      "2026-08-13": 40
+      "2026-08-13": 40,
+      "2026-08-16": 20
     }
   },
   {
@@ -761,11 +762,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mrsfox.ch.ico",
     "slug": "mrs-fox",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "80.44%",
-    "uptimeWeek": "91.76%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.46%",
+    "uptimeDay": "78.12%",
+    "uptimeWeek": "91.43%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.46%",
     "time": 1697,
     "timeDay": 1049,
     "timeWeek": 2080,
@@ -788,7 +789,7 @@
       "2026-05-07": 95,
       "2026-07-20": 163,
       "2026-08-15": 549,
-      "2026-08-16": 282
+      "2026-08-16": 315
     }
   },
   {
@@ -1064,20 +1065,19 @@
     "url": "https://www.nicopalasik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nicopalasik.de.ico",
     "slug": "nico-palasik",
-    "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "91.73%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "93.97%",
+    "status": "down",
+    "uptime": "94.11%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "94.11%",
     "time": 1880,
     "timeDay": 1831,
     "timeWeek": 1952,
     "timeMonth": 1810,
     "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-06-16": 406,
-      "2026-06-15": 157,
+      "2026-06-16": 302,
       "2026-06-17": 340,
       "2026-06-18": 93,
       "2026-06-19": 452,
@@ -1132,7 +1132,7 @@
       "2026-08-12": 52,
       "2026-08-13": 90,
       "2026-08-15": 20,
-      "2026-08-16": 100
+      "2026-08-16": 106
     }
   },
   {
@@ -1181,11 +1181,11 @@
     "url": "https://khl-neometis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/khl-neometis.de.ico",
     "slug": "khl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "98.66%",
     "time": 1449,
     "timeDay": 940,
@@ -1257,7 +1257,7 @@
       "2026-08-14": 40,
       "2026-08-13": 4,
       "2026-08-15": 67,
-      "2026-08-16": 16
+      "2026-08-16": 17
     }
   },
   {
@@ -1340,7 +1340,7 @@
     "status": "up",
     "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.74%",
+    "uptimeWeek": "28.07%",
     "uptimeMonth": "36.27%",
     "uptimeYear": "91.54%",
     "time": 1383,
@@ -1401,11 +1401,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.juliagoessler.com.ico",
     "slug": "julia",
     "status": "down",
-    "uptime": "97.63%",
+    "uptime": "97.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.22%",
-    "uptimeYear": "94.77%",
+    "uptimeMonth": "37.14%",
+    "uptimeYear": "94.76%",
     "time": 1396,
     "timeDay": 39,
     "timeWeek": 87,
@@ -1414,7 +1414,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-16": 882,
+      "2026-08-16": 916,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
