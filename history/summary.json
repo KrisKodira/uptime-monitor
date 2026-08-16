@@ -692,17 +692,17 @@
     "url": "https://werbungmitwumms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/werbungmitwumms.com.ico",
     "slug": "tim-j",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "92.54%",
     "uptimeYear": "97.37%",
-    "time": 1464,
-    "timeDay": 1339,
-    "timeWeek": 1198,
-    "timeMonth": 1211,
-    "timeYear": 1450,
+    "time": 1463,
+    "timeDay": 1104,
+    "timeWeek": 1135,
+    "timeMonth": 1202,
+    "timeYear": 1449,
     "dailyMinutesDown": {
       "2026-06-09": 146,
       "2026-06-10": 265,
@@ -752,7 +752,7 @@
       "2026-08-05": 45,
       "2026-08-07": 101,
       "2026-08-08": 71,
-      "2026-08-16": 32
+      "2026-08-16": 34
     }
   },
   {
@@ -762,9 +762,9 @@
     "slug": "mrs-fox",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "64.41%",
-    "uptimeWeek": "89.47%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "63.59%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.41%",
     "time": 1694,
     "timeDay": 1035,
@@ -788,7 +788,7 @@
       "2026-05-07": 95,
       "2026-07-20": 163,
       "2026-08-15": 549,
-      "2026-08-16": 513
+      "2026-08-16": 525
     }
   },
   {
@@ -977,16 +977,16 @@
     "url": "https://www.karst-rechtsanwaelte.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.karst-rechtsanwaelte.de.ico",
     "slug": "karst",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "99.15%",
-    "time": 1156,
-    "timeDay": 1300,
-    "timeWeek": 1045,
-    "timeMonth": 1036,
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.14%",
+    "time": 1155,
+    "timeDay": 1168,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-08-18": 19,
@@ -1035,7 +1035,7 @@
       "2026-08-07": 97,
       "2026-08-08": 66,
       "2026-08-12": 81,
-      "2026-08-16": 1
+      "2026-08-16": 12
     }
   },
   {
@@ -1072,7 +1072,7 @@
     "uptimeMonth": "91.33%",
     "uptimeYear": "94.27%",
     "time": 1880,
-    "timeDay": 1761,
+    "timeDay": 1756,
     "timeWeek": 1938,
     "timeMonth": 1810,
     "timeYear": 1880,
@@ -1340,7 +1340,7 @@
     "status": "up",
     "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.67%",
+    "uptimeWeek": "30.78%",
     "uptimeMonth": "36.27%",
     "uptimeYear": "91.54%",
     "time": 1383,
@@ -1404,7 +1404,7 @@
     "uptime": "97.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.55%",
+    "uptimeMonth": "36.52%",
     "uptimeYear": "94.71%",
     "time": 1396,
     "timeDay": 39,
@@ -1414,7 +1414,7 @@
     "dailyMinutesDown": {
       "2026-07-28": 769,
       "2026-07-29": 1368,
-      "2026-08-16": 1177,
+      "2026-08-16": 1189,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
