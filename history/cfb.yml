@@ -1,7 +1,7 @@
 url: https://crossfitbaden.ch/
-status: up
-code: 200
-responseTime: 1632
-lastUpdated: 2026-09-19T01:05:24.520Z
+status: down
+code: 415
+responseTime: 405
+lastUpdated: 2026-09-19T05:04:02.689Z
 startTime: 2024-02-05T07:45:30.472Z
 generator: Upptime <https://github.com/upptime/upptime>
