@@ -19,14 +19,10 @@ sites:
     url: https://krisnetics.com/
   - name: 📈 Matomo
     url: https://krisnetics.biz/matomo/
-  - name: Annette
-    url: https://annette-lartey.de/
   - name: CFB
     url: https://crossfitbaden.ch/
   - name: Wohlfühlformel
     url: https://wohlfuehlformel.de/
-  - name: Lea Heinrich
-    url: https://dieleaheinrich.de/
   - name: Unternehmerplus
     url: https://www.unternehmerplus.de/
   - name: Peter
@@ -65,10 +61,8 @@ sites:
     url: https://kunert.cc/
   - name: Müller Sales
     url: https://mueller-sales.de/
-  - name: TayRec
-    url: https://tayrec.de/
-  - name: Julia
-    url: https://www.juliagoessler.com/
+  - name: Grandega
+    url: https://grandega.de/
   - name: Rakete 28 Liweno
     url: https://rakete28.com/
   - name: Marco Fehr Bau
